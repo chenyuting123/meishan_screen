@@ -1,0 +1,89 @@
+.risk-change {
+  width: 100%;
+  padding: 10px 10px;
+
+  .danger-text {
+    &.min {
+      padding: 1px 5px;
+    }
+
+  }
+
+  .radius-btn {
+    &.min {
+      padding: 1px 5px;
+    }
+
+  }
+
+  .conpany-soure {
+    display: table;
+
+    .danger-flag {
+      vertical-align: middle;
+      text-align: center
+    }
+
+    .danger-text,
+    .danger-num {
+      vertical-align: middle;
+      width: 80px;
+      text-align: center;
+    }
+
+    .danger-num {
+      height: 35px;
+    }
+
+  }
+
+  .table-theme {
+    background: #fff;
+    text-align: center;
+
+    .name {
+      font-size: 16px;
+      font-weight: bold;
+      color: #333333;
+    }
+
+    .type {
+      color: #1e86f4;
+      border: 1px #1e86f4 solid;
+    }
+
+    .info-title {
+      font-size: 16px;
+    }
+
+    .info-number {
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .reverse {
+      transform: rotate(180deg);
+    }
+
+  }
+
+  .isUpdate {
+    color: rgb(244, 94, 106);
+  }
+
+  @media screen and (min-width:1367px) {
+    .text-ellipsis {
+      &.name {
+        width: 300px;
+      }
+
+    }
+
+    .danger-text,
+    .danger-num {
+      width: 100px !important;
+    }
+
+  }
+
+}

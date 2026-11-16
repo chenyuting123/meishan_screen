@@ -1,0 +1,150 @@
+{
+  "links": [
+    {
+      "endId": "fdf5446e05004c62a1c46bdc24306c35",
+      "properties": {
+        "bbdRoleId": "797bb8ae03ca0041e711684e11116ea0",
+        "createTime": 1530928377444,
+        "labels": [
+          "Director",
+          "Role",
+          "Entity"
+        ],
+        "ratio": null,
+        "relationType": null,
+        "roleName": "执行董事",
+        "updateTime": 1530928377444
+      },
+      "startId": "0af66fb87bf79f2c629b60968bb4e885"
+    },
+    {
+      "endId": "fdf5446e05004c62a1c46bdc24306c35",
+      "properties": {
+        "bbdRoleId": "83c93668ab1b9e8d9c510cd18b7433f5",
+        "createTime": 1530928377421,
+        "labels": [
+          "Executive",
+          "Role",
+          "Entity"
+        ],
+        "ratio": null,
+        "relationType": null,
+        "roleName": "经理",
+        "updateTime": 1530928377421
+      },
+      "startId": "c707a36ece2ea479e97c1aa9a6c99d93"
+    },
+    {
+      "endId": "ba369113a4c244608fb3541a4a5e6074",
+      "properties": {
+        "bbdRoleId": "d57d084fe2127c39ac58a959c5a8238f",
+        "createTime": 1530958258691,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "25.6700%",
+        "relationType": null,
+        "roleName": "",
+        "updateTime": 1530958258691
+      },
+      "startId": "0af66fb87bf79f2c629b60968bb4e885"
+    },
+    {
+      "endId": "fdf5446e05004c62a1c46bdc24306c35",
+      "properties": {
+        "bbdRoleId": "bf890984d8f3896dfafb9dc5b81bbcae",
+        "createTime": 1530928377589,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "92.0700%",
+        "relationType": null,
+        "roleName": "",
+        "updateTime": 1530928377589
+      },
+      "startId": "0af66fb87bf79f2c629b60968bb4e885"
+    },
+    {
+      "endId": "fdf5446e05004c62a1c46bdc24306c35",
+      "properties": {
+        "bbdRoleId": "bad844ec642c3b2c8f416d6323562e2b",
+        "createTime": 1530928377801,
+        "labels": [
+          "Role",
+          "Legal",
+          "Entity"
+        ],
+        "ratio": null,
+        "relationType": null,
+        "roleName": "",
+        "updateTime": 1530928377801
+      },
+      "startId": "c707a36ece2ea479e97c1aa9a6c99d93"
+    },
+    {
+      "endId": "ba369113a4c244608fb3541a4a5e6074",
+      "properties": {
+        "bbdRoleId": "a2db4046cef12e9571df560a246c35af",
+        "createTime": 1530958257065,
+        "labels": [
+          "Role",
+          "Supervisor",
+          "Entity"
+        ],
+        "ratio": null,
+        "relationType": null,
+        "roleName": "监事会主席",
+        "updateTime": 1530958257065
+      },
+      "startId": "c707a36ece2ea479e97c1aa9a6c99d93"
+    }
+  ],
+  "nodes": [
+    {
+      "bbdQyxxId": "0af66fb87bf79f2c629b60968bb4e885",
+      "dwtzxx": 7,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "贾跃亭"
+    },
+    {
+      "bbdQyxxId": "fdf5446e05004c62a1c46bdc24306c35",
+      "black": true,
+      "companyName": "乐视控股（北京）有限公司",
+      "estatus": "存续",
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 391
+    },
+    {
+      "bbdQyxxId": "c707a36ece2ea479e97c1aa9a6c99d93",
+      "dwtzxx": 12,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "吴孟"
+    },
+    {
+      "bbdQyxxId": "ba369113a4c244608fb3541a4a5e6074",
+      "black": true,
+      "companyName": "乐视网信息技术（北京）股份有限公司",
+      "estatus": "存续",
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 6804
+    }
+  ]
+}

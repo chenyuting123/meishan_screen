@@ -1,0 +1,44 @@
+.c-time-axis {
+  position: absolute;
+  bottom: 51px;
+  width: 700px;
+  height: 36px;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(60, 83, 180, 0.1);
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 5;
+  > span {
+    float: left;
+    margin: 6px 13px;
+    text-align: center;
+    color: #ffffff;
+    width: 80px;
+    height: 24px;
+    background: rgba(0, 57, 116, 1);
+    border-radius: 4px;
+  }
+  .c-time-axis__ant {
+    float: left;
+    width: 580px;
+    .ant-tabs-bar {
+      border: none;
+    }
+    .ant-tabs-ink-bar {
+      display: none !important;
+    }
+    .ant-tabs-tab {
+      padding: 4px 8px;
+      margin: 4px 8px;
+    }
+    .ant-tabs-nav {
+      .ant-tabs-tab-active {
+        background: #49a9ee;
+        border-radius: 4px;
+        color: #ffffff;
+      }
+    }
+  }
+}

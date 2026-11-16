@@ -1,0 +1,16 @@
+.mapChina{
+    width: 100%;
+    height: 100%;
+}
+.mapSH{
+    width: 100%;
+    height: 100%;
+}
+.goLink{
+    position: absolute;
+    right: 17%;
+    bottom: 3%;
+    width: 20px;
+    height: 20px;
+    display: block;
+}

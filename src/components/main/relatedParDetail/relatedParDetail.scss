@@ -1,0 +1,203 @@
+.relate-detail {
+    padding: 20px 40px 0 40px;
+
+    .header {
+        height: 210px;
+        line-height: 80px;
+        width: 100%;
+        font-size: 18px;
+        color: #fff;
+        padding: 0px 33px;
+        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#0b417e', endColorStr='#0785bb', gradientType='1');
+        background: -moz-linear-gradient(left, #0b417e, #0785bb);
+        background: -o-linear-gradient(left, #0b417e, #0785bb);
+        background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#0b417e), to(#0785bb));
+        display: table;
+
+        .user-msg {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        h2 {
+            margin-bottom: 44px;
+            line-height: normal;
+        }
+
+        .remark {
+            font-size: 18px;
+            line-height: normal;
+
+            >span {
+                font-weight: bold;
+            }
+
+        }
+
+    }
+
+    .no-data {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .table-content {
+        .table-theme td {
+            padding: 0px;
+            height: 54px;
+        }
+
+        .cap-scale {
+            font-size: 14px;
+            color: #f76d43;
+        }
+
+        width: 100%;
+
+        .company-name {
+            width: 10%;
+
+            .text-ellipsis {
+                line-height: 16px;
+            }
+
+        }
+
+        .company-remark {
+            width: 90%;
+
+            .scroll-relate-list {
+                width: 100%;
+                position: relative;
+                padding-bottom: 5px;
+            }
+
+            .table-theme {
+                width: 2800px;
+
+                .icon-paixu {
+                    font-size: 16px;
+                    color: #0293dc;
+                }
+
+            }
+
+        }
+
+    }
+
+    .content {
+        margin-top: 20px;
+        padding: 0 20px;
+
+        .content-padding {
+            background: #fff;
+        }
+
+        .table-header {
+            background: #cad3dc;
+            height: 50px;
+            padding: 0 10px;
+
+            .expor-box {
+                width: 160px;
+                height: 32px;
+                line-height: 32px;
+                text-align: center;
+                display: inline-block;
+                border: 1px solid #000d35;
+                border-radius: 25px;
+                font-size: 18px;
+                color: #000d35;
+                position: relative;
+                top: 10px;
+            }
+
+            .search-box {
+                width: 300px;
+                position: relative;
+                top: 8px;
+                display: inline-block;
+                margin-right: 30px;
+
+                .search-input {
+                    width: 100%;
+                    text-indent: 10px;
+                    height: 32px;
+                    border: 1px solid #000d35;
+                    border-radius: 25px;
+                }
+
+                .icon-sousuo {
+                    position: absolute;
+                    right: 10px;
+                    top: 8px;
+                    cursor: pointer;
+                }
+
+            }
+
+            .action-type {
+                display: inline-block;
+                vertical-align: middle;
+                position: relative;
+                top: 8px;
+
+                > span {
+                    display: inline-block;
+                    background: #b6bfc6;
+                    border-radius: 4px;
+                    padding: 0px 9px;
+                    height: 31px;
+                    line-height: 31px;
+                    margin-right: 10px;
+                    text-align: center;
+                    color: #fff;
+                    cursor: pointer;
+                    -webkit-transition: all .3s;
+                    transition: all .3s;
+
+                    &:hover {
+                        background: rgba(20, 173, 255, .8);
+                    }
+
+                    &.noHover {
+                        &:hover {
+                            cursor: not-allowed;
+                        }
+
+                    }
+
+                    &.active {
+                        background: rgba(20, 173, 255, 1);
+                    }
+
+                }
+
+            }
+
+            .action-search {
+                float: right;
+            }
+
+        }
+
+    }
+
+    @media screen and (max-width:1367px) {
+        .search-box {
+            width: 220px;
+            margin-right: 10px;
+        }
+
+        .text-ellipsis {
+            width: 80px
+        }
+
+        .expor-box {
+            width: 140px;
+        }
+
+    }
+
+}

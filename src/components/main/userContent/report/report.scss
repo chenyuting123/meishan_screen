@@ -1,0 +1,152 @@
+.report {
+    width: 100%;
+    padding: 10px 10px;
+
+    .conpany-soure {
+        display: table;
+        .danger-flag {
+            vertical-align: middle;
+            text-align: center
+        }
+        .danger-text,
+        .danger-num {
+            vertical-align: middle;
+            width: 80px;
+            text-align: center;
+        }
+
+        .danger-num {
+            height: 35px;
+        }
+
+    }
+
+    .table-theme {
+        background: #fff;
+        text-align: center;
+
+        .company-text-f {
+            padding-left: 30px;
+        }
+
+        .name {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333333;
+        }
+
+        .type {
+            color: #1e86f4;
+            border: 1px #1e86f4 solid;
+            margin-left: 10px;
+        }
+
+    }
+
+    .sec-line {
+        font-size: 16px;
+        color: #999;
+
+        span {
+            color: #333;
+        }
+
+    }
+
+    .danger-flag {
+        width: 20px;
+    }
+
+    .down-load {
+        color: #1e86f4;
+        border: 1px #1e86f4 solid;
+        cursor: pointer;
+    }
+
+    .yanb {
+        cursor: pointer;
+
+        &.forbid {
+            border: 1px #5099f8 solid;
+            color: #5099f8;
+        }
+
+        &.downed {
+            color: #fff;
+            background: #1e86f4;
+            position: relative;
+        }
+
+        &.down {
+            color: #fff;
+            background: #1e86f4;
+            position: relative;
+
+            &:after {
+                position: absolute;
+                content: "\25CF";
+                color: #f55c6b;
+                top: -13px;
+                right: 4px;
+            }
+
+        }
+
+        &.undown {
+            color: #fff;
+            background: #d4dbe3;
+        }
+
+    }
+
+    @media screen and (min-width:1367px) {
+        .text-ellipsis {
+            width: 250px;
+        }
+
+        .danger-text,
+        .danger-num {
+            width: 100px !important;
+        }
+
+    }
+
+    .danger-text {
+        &.min {
+            padding: 1px 5px;
+        }
+
+    }
+
+    .radius-btn {
+        &.min {
+            padding: 1px 5px;
+        }
+
+    }
+
+}
+
+.report-model {
+    .mt-panel-box {
+        position: relative;
+
+        .downLoadDemo {
+            position: absolute;
+            text-decoration: underline;
+            cursor: pointer;
+            color: #1e86f4;
+            right: 20px;
+            top: 0;
+        }
+
+    }
+
+}
+
+.report-model {
+    .ant-modal-footer {
+        display: none
+    }
+
+}

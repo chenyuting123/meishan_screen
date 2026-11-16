@@ -1,0 +1,48 @@
+.regionView-root{
+    width: 100%;
+    height: 100%;
+    .regionView-top{
+        width: 100%;
+        height: 90px;
+        padding: 0 20px;
+        text-align: left;
+        .regionView-title{
+            font-size: 18px;
+            color: #FEFEFF;
+            font-weight: bold;
+            padding: 10px 0px;
+        }
+    }
+    .table-box{
+        width: 100%;
+        height: calc(100% - 125px);
+        padding: 0 10px;
+        margin-top: 10px;
+        overflow: auto;
+        .tableStyle {
+            width: 100%;
+            width: 98%\9; /*所有ie*/
+            margin: 0 auto;
+            border-collapse: collapse;
+            table-layout: fixed;
+            white-space: nowrap;
+            word-wrap: break-word;
+            word-break: break-all;
+            color: #FEFEFF;
+            background: none;
+            tr{
+                border: 1px solid #144476;
+            }
+            th,td {
+                height: 30px;
+                padding: 0px;
+                border: none;
+                font-size: 14px;
+                text-align: center;
+            }
+            tbody tr:nth-child(2n + 1) {
+                background: #11365D;
+            }
+        }
+    }
+}

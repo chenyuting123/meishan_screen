@@ -1,0 +1,67 @@
+@import "../../../../../styles/mixin";
+
+$widthS: 100px;
+$whiteC: #fff;
+
+.c-search-condition {
+  width: 100%;
+  min-height: 210px;
+  background: $whiteC;
+  padding: 40px 30px;
+  @include transitionAnimate(all);
+  .c-search-condition__handle {
+    cursor: pointer;
+    width: 100%;
+    @include blueColor('c', 1);
+    margin-bottom: 20px;
+    > i {
+      transform: rotate(90deg);
+    }
+  }
+  .c-search-condition__item {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    min-height: 50px;
+    > span {
+      width: $widthS;
+      float: left;
+      font-size: 18px;
+      font-weight: 600;
+      color: rgba(51, 51, 51, 1);
+    }
+    > ul {
+      float: left;
+      width: calc(100% - 100px);
+      min-height: 30px;
+      max-height: 30px;
+      overflow: hidden;
+      @include transitionAnimate(all);
+      &.active {
+        max-height: 500px;
+      }
+      > li {
+        font-size: 18px;
+        float: left;
+        padding: 2px 10px;
+        height: 30px;
+        border-radius: 13px;
+        @include blueColor('bg', 0);
+        margin: 0 22px 5px;
+        color: rgba(102, 102, 102, 1);
+        @include transitionAnimate(all);
+        cursor: pointer;
+        &:hover, &.active {
+          @include blueColor('bg', 1);
+          color: $whiteC;
+
+        }
+      }
+    }
+    > i {
+      position: absolute;
+      right: 0;
+      top: 10px;
+    }
+  }
+}

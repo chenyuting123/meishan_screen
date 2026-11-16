@@ -1,0 +1,8 @@
+@import '../../../styles/mixin'; 
+.home-right{
+  width: 100%;
+  .top-chart-box{
+    @include indexBoxStyle();
+    @include titleStyle();
+  }
+}

@@ -1,0 +1,24 @@
+@import '../../../styles/mixin';
+.private-type {
+  @include indexBoxStyle();
+  .v-center {
+    float: left;
+  }
+  .head{
+    color:white;
+    text-align: left;
+    // margin-left: 20px;
+    position: relative;
+    em{
+      position: relative;
+      top:3px;
+      color:rgb(2,147,220);
+      font-size: 26px ;
+    }
+    .title{
+      margin-left: 12px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+  }
+}

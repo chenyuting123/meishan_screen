@@ -1,0 +1,21 @@
+.inc-and-des {
+  .mt-tabs {
+    .mt-tabs-tab {
+      width: 50%;
+      text-align: center;
+      &.mt-tabs-tab-active {
+        background: #fff!important;
+      }
+    }
+  }
+  .inc-and-des-box {
+    height: 440px;
+    overflow: scroll;
+    .iconfont {
+      display: inline-block;
+    }
+    .reverse {
+      transform: rotateX(180deg);
+    }
+  }
+}

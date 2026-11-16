@@ -1,0 +1,21 @@
+@import '../../../styles/mixin';
+.trade-variety {
+  @include indexBoxStyle();
+  .head{
+    color:white;
+    text-align: left;
+    margin-left: 20px;
+    position: relative;
+    em{
+      position: relative;
+      top:3px;
+      color:rgb(2,147,220);
+      font-size: 26px ;
+    }
+    .title{
+      margin-left: 10px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+  }
+}

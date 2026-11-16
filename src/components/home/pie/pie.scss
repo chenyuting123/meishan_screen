@@ -1,0 +1,24 @@
+.pie-chart {
+}
+
+
+.pieTooltip {
+  text-align: left !important;
+  .title {
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+  }
+  .color-blue {
+    color: #81C0F1;
+  }
+  .color-yellow {
+    color: #f4c300
+  }
+  .color-yellow, .color-blue {
+    font-weight: 600;
+    font-size: 16px;
+    padding-left: 8px;
+  }
+}

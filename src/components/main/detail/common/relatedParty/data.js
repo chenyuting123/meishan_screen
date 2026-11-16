@@ -1,0 +1,50 @@
+export const sortArr  = [
+    { name: '关联度数', key: 'category', sort: false, width: '5%', isSelect: true, unit: '度' },
+    { name: '关联关系', key: 'relationDescribe', sort: false, width: '5%', isSelect: true },
+    { name: '注册地址', key: 'regAddress', sort: false, width: '10%' },
+    { name: '注册资本', key: 'regcap', sort: true, width: '8%' },
+    { name: '注册日期', key: 'esdate', sort: true, width: '6%' },
+    { name: '法人', key: 'frname', sort: false, width: '6%' },
+    { name: '状态', key: 'enterpriseStatus', sort: false, width: '8%', isSelect: true },
+    { name: '行业', key: 'industry', sort: false, width: '5%', isSelect: true },
+    { name: '风险等级', key: 'riskLevel', sort: false, width: '5%', isSelect: true },
+    { name: '风险分值', key: 'riskIndex', sort: true, width: '4%' },
+    { name: '民间借贷法律文书', key: 'totalPrivateLendingNum', sort: true, width: '7%' },
+    { name: '失信被执行人', key: 'totalDishonestyNum', sort: true, width: '6%' },
+    { name: '被执行人', key: 'totalZhixingNum', sort: true, width: '5%' },
+    { name: '行政处罚', key: 'totalXzcfNum', sort: true, width: '5%' },
+    { name: '经营异常', key: 'totalQyycNum', sort: true, width: '4%' },
+    { name: '诉讼', key: 'totalDocumentNum', sort: true, width: '4%' },
+    { name: '工商变更', key: 'totalBgxxNum', sort: true, width: '4%' },
+    { name: '对外投资', key: 'totalOutDegreeNum', sort: true, width: '4%' },
+    { name: '黑名单关联方', key: 'totalBlackNum', sort: true, width: '5%' },
+    { name: '高风险关联方', key: 'totalHighNum', sort: true, width: '6%' }
+];
+export const tabArr  = [
+    { name: '全部', key: 'relationTotalNum', shortName: '全部' },
+    { name: '黑名单数', key: 'blackNum', shortName: '黑名单' },
+    { name: '高风险企业数', key: 'highRiskNum', shortName: '高风险' },
+    { name: '新金融企业数', key: 'newFinanceNum', shortName: '新金融' },
+    { name: '利益一致行动法人数', key: 'commonInterestsNum', shortName: '利益一致' },
+    { name: '地址相同企业数', key: 'sameAddressNum', shortName: '地址相同' },
+    { name: '注吊销企业数', key: 'cancelNum', shortName: '注吊销' },
+    { name: '上市企业', key: '上市企业', shortName: '上市企业' },
+    { name: '裁判文书', key: '裁判文书', shortName: '裁判文书' },
+    { name: '借贷诉讼', key: '借贷诉讼', shortName: '借贷诉讼' },
+    { name: '经营异常', key: '经营异常', shortName: '经营异常' },
+    { name: '行政处罚', key: '行政处罚', shortName: '行政处罚' },
+    { name: '失信被执行人', key: '失信被执行人', shortName: '失信被执行人' },
+    { name: '国资背景', key: '国资背景', shortName: '国资背景' }
+];
+export const legendList = [
+    { name: '目标企业', icon: 'company/company_orange' },
+    { name: '关联方可扩展', icon: 'company/company_deepb' },
+    { name: '法人股东', icon: 'company/company_green' },
+    { name: '高风险企业', icon: 'company/company_high' },
+    // {name: '吊销企业', icon: 'company/company_grey'},
+    { name: '黑名单企业', icon: 'company/company_black' },
+    { name: '董监高', icon: 'man/man_blue' },
+    { name: '自然人股东', icon: 'man/man_green' },
+    { name: '投资关系', icon: 'other/arrows1' },
+    { name: '管理关系', icon: 'other/arrows2' }
+];

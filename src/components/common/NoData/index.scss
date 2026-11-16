@@ -1,0 +1,15 @@
+.c-no-data {
+  height: auto;
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+  text-align: center;
+  img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+  p {
+    margin: 10px 0 0;
+    color: #fff;
+  }
+}

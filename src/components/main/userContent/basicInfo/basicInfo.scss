@@ -1,0 +1,89 @@
+.basicInfo {
+    background: #0b427e;
+    background: -moz-linear-gradient(left, #0b427e, #0785bb);
+    background: -o-linear-gradient(left, #0b427e, #0785bb);
+    background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#0b427e), to(#0785bb));
+    height: 100%;
+    padding: 0 20px;
+    color: #fff;
+    width: 100%;
+    .left {
+        width: 55%;
+        padding-top: 28px;
+        .item {
+            margin-right: 80px;
+            display: inline-block;
+        }
+        .item:last-child{
+            margin-right: 30px;
+        }
+
+        .item-num {
+            display: block;
+            padding-bottom: 8px;
+
+            b {
+                font-size: 34px;
+            }
+
+        }
+
+        .item-name {
+            color: #bcc1c6;
+            font-size: 16px;
+        }
+    }
+    .lineBox{
+        width: 5%;
+        height: 100%;
+        text-align: center;
+        .lineStyle{
+            width:3px;
+            height:72px;
+            display: inline-block;
+            background:rgba(255,255,255,1);
+            opacity:0.2;
+        }
+    }
+
+    .right {
+        width: 40%;
+        height: 100%;
+        padding-top: 30px;
+        text-align: right;
+        .user-icon {
+            background: url('../../../../images/userIcon.png') center center;
+            display: inline-block;
+            width: 75px;
+            height: 75px;
+            vertical-align: middle;
+            margin-right: 15px;
+        }
+
+        .user-name {
+            font-weight: 600;
+            font-size: 22px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .item-box {
+            display: inline-block;
+            padding-left: 35px;
+            vertical-align: middle;
+            text-align: left;
+        }
+
+        .item {
+            padding-right: 25px;
+            font-size: 16px;
+            font-weight: bold;
+            >span {
+                color: #bcc1c6;
+                font-weight: normal;
+            }
+
+        }
+    }
+
+}

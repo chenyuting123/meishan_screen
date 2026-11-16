@@ -1,0 +1,103 @@
+@import "../../../../../../styles/mixin";
+
+.c-right-explain {
+  position: absolute;
+  right: 0;
+  width: 249px;
+  height: 968px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: -2px 0 8px rgba(60, 83, 180, 0.1);
+  z-index: 4;
+  @include transitionAnimate(width);
+  .c-right-explain__content {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    .c-right-explain__line {
+      display: inline-block;
+      margin-left: 16px;
+      height: 2px;
+      background-color: #e7ebee;
+      vertical-align: middle;
+      width: 142px;
+    }
+    h3 {
+      height: 17px;
+      line-height: 17px;
+      margin: 16px 15px;
+      font-size: 16px;
+      font-weight: 700;
+      color: rgba(5, 53, 82, 1);
+      > i {
+        float: right;
+        transform: rotate(90deg);
+        cursor: pointer;
+        &:hover {
+          color: #0B417D;
+        }
+      }
+    }
+  }
+  h5 {
+    padding-left: 15px;
+    color: #456;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 100%;
+  }
+  .c-right-explain__outline {
+    margin: 17px 0;
+    padding-left: 24px;
+    font-size: 12px;
+    > li {
+      height: 25px;
+      line-height: 25px;
+      margin-top: 6px;
+      &:first-child {
+        margin-top: 0;
+      }
+      img {
+        float: left;
+        width: 25px;
+      }
+      span {
+        margin-left: 11px;
+      }
+    }
+  }
+  .c-right-explain__operation {
+    padding-left: 24px;
+    padding-bottom: 25px;
+    font-size: 12px;
+    .c-right-explain__type {
+      margin-left: 6px;
+      margin-top: 14px;
+      height: 18px;
+      line-height: 18px;
+      > span {
+        margin-left: 16px;
+        color: #148fcc;
+        font-size: 14px;
+        font-weight: 700;
+      }
+    }
+    > li {
+      margin-top: 12px;
+      color: #456;
+      overflow: hidden;
+      img {
+        float: left;
+      }
+      span {
+        display: inline-block;
+        float: left;
+        &:first-child {
+          font-weight: 700;
+        }
+        &:last-child {
+          width: 156px;
+        }
+      }
+    }
+  }
+}

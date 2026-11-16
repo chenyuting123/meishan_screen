@@ -1,0 +1,138 @@
+$defaultC: #14ADFF;
+
+.detail-display {
+  @mixin itemStyle {
+    margin-left: 30px;
+    margin-top: 25px;
+    font-size: 16px;
+  }
+
+  padding: 0 60px;
+
+  .detail-display-head {
+    height: 80px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: right;
+
+    .mt-select-input {
+      text-align: center;
+      padding: 0 !important;
+
+      .iconfont {
+        margin-right: 8px;
+      }
+
+    }
+
+  }
+
+  .detail-display-content {
+    width: 100%;
+
+    .detail-list {
+      width: 100%;
+      .detail-list-item {
+        margin-bottom: 40px;
+
+        .detail-list-item-title {
+          line-height: 20px;
+
+          em {
+            position: relative;
+            bottom: 2px;
+            font-size: 20px;
+            vertical-align: middle;
+          }
+
+          span {
+            cursor: pointer;
+            margin-left: 10px;
+            font-weight: 600;
+            color: $defaultC;
+            font-size: 18px;
+
+            &:hover {
+              text-decoration: underline;
+            }
+
+          }
+
+        }
+
+        .detail-list-item-time {
+          @include itemStyle;
+          color: #999;
+        }
+
+        .detail-list-item-detail {
+          line-height: 24px;
+          @include itemStyle;
+          color: #333;
+        }
+
+      }
+
+    }
+
+  }
+
+  .show-modal {
+    position: absolute;
+    width: 700px;
+    padding: 34px 38px 25px;
+    // min-height: 333px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    font-size: 14px;
+
+    .detail-title {
+      font-weight: 600;
+      font-size: 18px;
+    }
+
+    .detail-time {
+      margin-top: 25px;
+      color: #999;
+    }
+
+    .detail-detail {
+      margin-top: 25px;
+      max-height: 300px;
+      overflow: auto;
+
+      em {
+        color: #f11
+      }
+
+      img {
+        width: 620px;
+        height: 300px;
+      }
+
+    }
+
+    .close-btn {
+      float: right;
+      height: 30px;
+      margin-top: 20px;
+      text-align: center;
+
+      .close-text {
+        display: inline-block;
+        height: 30px;
+        width: 100px;
+        border-radius: 50px;
+        line-height: 30px;
+        text-align: center;
+        cursor: pointer;
+        font-size: 16px;
+        color: $defaultC;
+      }
+
+    }
+
+  }
+
+}

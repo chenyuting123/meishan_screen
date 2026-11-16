@@ -1,0 +1,60 @@
+@import '../../../styles/mixin'; 
+.rightPlan_root{
+    width: 100%;
+    height: calc(100% - 40px);
+    .areaDistributionTop3-box{
+        width: 100%;
+        height: 310px;
+        border: 2px solid rgba(2,147,220,.4);
+        background-color: rgba(8,40,67,.4);
+        margin-top: 11px;
+        .leftChart{
+            width: 75%;
+            height: 100%;
+            float: left;
+            .mod{
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .rightChart{
+            position: relative;
+            width: 25%;
+            height: 100%;
+            float: right;
+            .topPie, .middlePie, .bottomPie{
+                width: 100%;
+                height: 30%;
+                .mod{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .topPie{
+                position: absolute;
+                top: 38px;
+            }
+            .middlePie{
+                position: absolute;
+                top: 118px;
+            }
+            .bottomPie{
+                position: absolute;
+                top: 198px;
+            }
+           
+        }
+        .clearFloat{
+            clear: both;
+        }
+    }
+    // .industrial-distribution-box{
+    //     @include indexBoxStyle();
+    //     @include titleStyle();
+    // }
+    .risk-analysis-box{
+        @include indexBoxStyle();
+        @include titleStyle();
+        
+    }
+}

@@ -1,0 +1,58 @@
+.c-seek {
+  padding: 16px;
+  position: relative;
+  background: #eff3f6;
+  height: 968px;
+  .c-seek__input {
+    margin: 20px 0;
+    .ant-select-selection {
+      height: 44px;
+    }
+    .ant-select-selection__rendered {
+      line-height: 40px;
+    }
+    .ant-input-search {
+      border-radius: 0 4px 4px 0 !important;
+    }
+  }
+  .c-seek__area {
+    .ant-select {
+      width: 140px !important;
+    }
+  }
+  .c-seek__p-list {
+    margin: 10px 0;
+    height: 28px;
+
+  }
+  .c-seek__pagination,
+  .c-seek__result {
+    height: 310px;
+    li {
+      width: 100%;
+      height: 50px;
+      margin-top: 15px;
+      padding: 10px;
+      background-color: #fff;
+      border-radius: 4px;
+      border: 1px solid #eff3f6;
+      line-height: 30px;
+      > div {
+        float: left;
+      }
+      > button, i {
+        float: right;
+      }
+      > i {
+        font-size: 20px;
+        margin: 4px 5px;
+      }
+    }
+  }
+  .c-seek__result {
+    height: 240px;
+  }
+  .c-seek__btn {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,37 @@
+.positionCenter {
+  left: 0;
+  right: 0;
+  position: absolute;
+  margin: auto;
+}
+
+$copH: 60px !important;
+.c-search-home {
+  background-size: auto;
+  background: url("../../../../images/search-bg.png") no-repeat center top;
+  position: relative;
+  .c-search-home__top {
+    @extend .positionCenter;
+    text-align: center;
+    width: 920px;
+    height: 150px;
+    top: 0;
+    bottom: 300px;
+    h1 {
+      color: #fff;
+      margin-bottom: 72px;
+      font-size: 30px;
+    }
+  }
+  .c-search-home__bottom {
+    @extend .positionCenter;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    .c-analysis-item{
+      h3{
+        color: #fff;
+      }
+    }
+  }
+}

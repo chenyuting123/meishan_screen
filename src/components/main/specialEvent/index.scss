@@ -1,0 +1,189 @@
+.mistakeRule-home{
+    .mt-select-input {
+        border: 1px #000d35 solid;
+        border-radius: 25px;
+        padding-top: 0px;
+        height: 34px;
+        line-height: 34px;
+        color: #000d35;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
+        span {
+            font-size: 18px;
+            color: #000d35;
+            font-weight: 400;
+        }
+
+        .mt-placeholder {
+            font-size: 18px;
+            color: #000d35;
+            font-weight: normal;
+        }
+
+    }
+    .mistakeRule-title{
+        width: 100%;
+        height: 50px;
+        background-color: rgba(202,211,220,1);
+        line-height: 50px;
+        padding-left: 22px;
+        margin-bottom: 20px;
+        span.title{
+            font-size:24px;
+            color:rgba(51,51,51,1);
+            font-weight: bold;
+            vertical-align: middle;
+        }
+        span.tag{
+            width:60px;
+            height:20px;
+            background:rgba(2,147,220,1);
+            border-radius:3px;
+            font-size:16px;
+            color: #fff;
+            margin-left: 18px;
+            vertical-align: middle;
+            padding: 0 5px;
+        }
+    }
+    .mistakeRule-chart{
+        width: 100%;
+        height: 380px;
+        margin-bottom: 20px;
+        .chart-box{
+            width: calc((100% - 20px) / 2);
+            height: 100%;
+            box-shadow:2px 0 10px rgba(0,0,0,0.06);
+            p{
+                color:rgba(51,51,51,1);
+            }
+            p.barTitle{
+                font-size:18px;
+                line-height: 50px;
+                padding-left: 28px;
+                background-color: rgba(202,211,220,1);
+            }
+            .myChart{
+                height: 330px;
+                width: 100%;
+                .mod{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+        .left-chart{
+            float: left;
+        }
+        .right-chart{
+            float: right;
+        }
+    }
+    .mistakeRule-table{
+        width: 100%;
+        // height: 612px;
+        box-shadow:2px 0px 10px rgba(0,0,0,0.06);
+        .table-top{
+            width: 100%;
+            height: 50px;
+            background-color: rgba(202,211,220,1);
+            line-height: 50px;
+            padding-left: 22px;
+            position: relative;
+            .table-top-left{
+                span.title{
+                    font-size:18px;
+                    color: #333333;
+                    font-weight: bold;
+                    vertical-align: middle;
+                }
+                span.tag{
+                    width:33px;
+                    height:16px;
+                    background:rgba(2,147,220,1);
+                    border-radius:3px;
+                    font-size:12px;
+                    color: #fff;
+                    margin-left: 18px;
+                    vertical-align: middle;
+                    padding: 0 5px;
+                }
+            }
+            .table-top-right{
+                position: absolute;
+                right: 0px;
+                top: -3px;
+                color: #000d35;
+                text-align: center;
+                &>div {
+                    display: inline-block;
+                    margin-right: 15px;
+                    vertical-align: middle;
+                }
+                .title{
+                    color: #000;
+                    font-size: 18px;
+                    margin-right: 5px;
+                    font-weight: bold;
+                }
+                .export {
+                    width: 110px;
+                    height: 34px;
+                    line-height: 34px;
+                    cursor: pointer;
+                    color: #000d35;
+                    border-radius: 25px;
+                    -webkit-transition: all .3s;
+                    transition: all .3s;
+                    border: 1px #000d35 solid;
+                    display: inline-block;
+                    margin-right: 15px;
+                    vertical-align: middle;
+
+                    .iconfont {
+                        font-size: 20px;
+                        margin-right: 5px;
+                    }
+
+                    font-size: 18px;
+                }
+            }
+            
+        }
+        .table-box{
+            width: 100%;
+            padding: 0 20px;
+            table{
+                td{
+                    text-align: center
+                }
+                th:nth-child(1), td:nth-child(1){
+                    width: 5%;
+                }
+                th:nth-child(2), td:nth-child(2),
+                th:nth-child(6), td:nth-child(6),
+                th:nth-child(7), td:nth-child(7){
+                    width: 20%;
+                    min-width: 260px;
+                }
+                th:nth-child(3), td:nth-child(3),
+                th:nth-child(6), td:nth-child(6)
+                {
+                    width: 10%;
+                }
+                th:nth-child(4), td:nth-child(4)
+                {
+                    width: 15%;
+                }
+                .text-ellipsis-260 {
+                    width: 260px;
+                    display: inline-block;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                }
+            }
+        }
+    }
+}

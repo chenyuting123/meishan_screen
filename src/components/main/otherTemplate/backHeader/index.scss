@@ -1,0 +1,26 @@
+@import "../../../../styles/mixin";
+
+.c-back-header {
+  height: 80px;
+  line-height: 80px;
+  width: 100%;
+  font-size: 18px;
+  color: #fff;
+  padding: 0 33px;
+  filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#0b417e', endColorStr='#0785bb', gradientType='1');
+  background: -moz-linear-gradient(left, #0b417e, #0785bb);
+  background: -o-linear-gradient(left, #0b417e, #0785bb);
+  background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#0b417e), to(#0785bb));
+  i {
+    padding: 5px;
+    font-size: 20px;
+    margin-right: 30px;
+    color: rgba(136, 136, 136, 1);
+    border-radius: 4px;
+    @include transitionAnimate(all);
+    @include whiteColor('bg', 1);
+    &:hover {
+      @include blueColor('c', 1);
+    }
+  }
+}

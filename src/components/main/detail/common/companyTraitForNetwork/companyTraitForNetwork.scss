@@ -1,0 +1,37 @@
+
+.company-trait-network {
+  min-height: 700px;
+  //padding: 20px 0;
+  .com_title {
+    height: 50px;
+    background: rgba(229, 235, 241, 1);
+    line-height: 50px;
+    text-indent: 29px;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .table-theme {
+    width: 100%;
+
+    td {
+      border: none;
+      font-size: 16px;
+    }
+
+    tr {
+      border-bottom: 1px solid rgba(219, 223, 229, 1);
+      td:nth-child(odd) {
+        background: rgba(229, 235, 241, 1);
+      }
+      td:nth-child(even) {
+        text-align: center;
+      }
+    }
+
+    .color-black {
+      color: #333;
+    }
+
+  }
+
+}

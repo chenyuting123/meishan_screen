@@ -1,0 +1,132 @@
+@import '../../../styles/mixin';
+
+.chat-frame {
+  @include indexBoxStyle();
+  .head {
+    color: white;
+    text-align: left;
+    // margin-left: 20px;
+    position: relative;
+    em {
+      position: relative;
+      top: 3px;
+      color: rgb(2, 147, 220);
+      font-size: 26px;
+    }
+    .title {
+      margin-left: 12px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+  }
+  .rank-content{
+     height: calc(100% - 50px);
+     .rank-box-top3{
+      height: calc(100% / 3);
+     }
+  }
+
+  .dynamic-content {
+    margin-top: 45px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    .liquid-part {
+      margin-left: 2%;
+    }
+    .text-part {
+      width: 58%;
+      margin-left: 5%;
+      .info {
+        list-style: none;
+        width: 440px;
+        margin-left: 2%;
+        li {
+          font-size: 16px;
+          float: left;
+          width: 30%;
+          margin-left: 1%;
+          margin-top: 30px;
+          color: rgb(206, 206, 206);
+          > div {
+            margin-top: 10px;
+          }
+        }
+      }
+    }
+  }
+  .pie-content {
+    position: relative;
+    height: calc(100% - 30px);
+    width: 100%;
+    .pie {
+      padding-left: 10%;
+    }
+  }
+  .no-info {
+    color: #eee;
+    font-size: 18px;
+    margin-top: 15%;
+  }
+  .rank-content {
+    position: relative;
+    min-height: 170px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  .clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+  .fl {
+    float: left;
+  }
+  .pr {
+    position: relative;
+  }
+  .mark {
+    font-weight: 600;
+    font-size: 26px;
+  }
+  .dark-blue {
+    color: rgb(2, 147, 220);
+  }
+  .yellow {
+    color: rgb(244, 195, 0);
+  }
+  .orange {
+    color: rgb(247, 109, 67);
+  }
+  .light-blue {
+    color: rgb(129, 192, 241);
+  }
+  .mt3 {
+    margin-top: 3px;
+  }
+  .hover {
+    cursor: pointer;
+  }
+}
+
+@media screen and (max-width: 1492px) {
+  .chat-frame {
+    .dynamic-content {
+      .text-part {
+        margin-left: 0;
+      }
+      .info {
+        li:nth-child(2) {
+          width: 19.5%;
+        }
+        li:nth-child(3) {
+          margin-left: 3%;
+        }
+      }
+    }
+    .mark {
+      font-size: 24px;
+    }
+  }
+}

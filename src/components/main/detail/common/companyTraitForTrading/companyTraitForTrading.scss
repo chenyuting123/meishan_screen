@@ -1,0 +1,40 @@
+.company-trait-trading {
+    min-height: 500px;
+    max-height: 1370px;
+
+    .tab-item {
+        .textL {
+            padding-left: 150px;
+        }
+
+        .no-data {
+            background: #fff;
+            padding: 15px 0;
+        }
+
+    }
+
+    .legnd {
+        border: none;
+        background: #eff3f7;
+        line-height: 50px;
+        color: #333;
+        font-size: 18px;
+
+        span {
+            line-height: 50px;
+            display: inline-block;
+            height: 50px;
+            cursor: pointer;
+            padding: 0 35px;
+
+            &.active {
+                font-weight: bold;
+                background: #fff;
+            }
+
+        }
+
+    }
+
+}

@@ -1,0 +1,35 @@
+{
+    "code": 200,
+    "content": [
+        {
+            "k": "交易场所",
+            "v": 5
+        },
+        {
+            "k": "小额贷款",
+            "v": 184
+        },
+        {
+            "k": "新兴金融",
+            "v": 3658
+        },
+        {
+            "k": "私募基金",
+            "v": 20
+        },
+        {
+            "k": "网络借贷",
+            "v": 9
+        },
+        {
+            "k": "融资担保",
+            "v": 211
+        }
+    ],
+    "msg": "成功",
+    "exeTimes": [
+        "IndexController.highIndustry:IndexServiceImpl.highIndustry:RaAreaCountMapper.highIndustry:199ms",
+        "IndexController.highIndustry:IndexServiceImpl.highIndustry:280ms",
+        "IndexController.highIndustry:280ms"
+    ]
+}

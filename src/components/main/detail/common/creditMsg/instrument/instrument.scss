@@ -1,0 +1,98 @@
+.instrument {
+    min-height: 500px;
+    max-height: 1370px;
+
+    @media screen and (min-width:1367px) {
+        .text-ellipsis {
+            &.doc-title {
+                width: 300px;
+            }
+
+            &.doc-casecode {
+                width: 300px;
+            }
+
+        }
+
+    }
+
+    .scroll {
+        .iscroll-pull-down,
+        .iscroll-pull-up {
+            background-color: #0293dc;
+            border-bottom: 2px solid #00A8C6;
+            text-align: center;
+        }
+
+    }
+
+}
+
+.instrument-model {
+    .ant-modal-header {
+        display: none;
+    }
+
+    .ant-modal-footer {
+        display: none;
+    }
+
+    .ant-modal-close-x {
+        color: #cad3dc;
+    }
+
+    .mt-panel-box {
+        .title {
+            border-bottom: 1px #ced6df dashed;
+            padding: 15px 0 10px 0;
+
+            h2 {
+                font-weight: bold;
+            }
+
+            .title-remark {
+                font-size: 14px;
+                text-align: right;
+            }
+
+        }
+
+        .content {
+            padding-top: 20px;
+
+            .instrument-left {
+                width: 70%;
+                font-size: 16px;
+                text-align: left;
+                padding-right: 5px;
+                height: 520px;
+                overflow: auto;
+                float: left;
+                position: relative;
+            }
+
+            .right {
+                width: 30%;
+                text-align: left;
+                padding: 0 10px;
+                font-size: 14px;
+                border-left: 1px #ced6df dashed;
+                height: 520px;
+                overflow: auto;
+                position: relative;
+
+                >div {
+                    margin: 10px 0;
+                }
+
+                .mark-t {
+                    font-weight: bold;
+                }
+
+            }
+
+        }
+
+    }
+
+}

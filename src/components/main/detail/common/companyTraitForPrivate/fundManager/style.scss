@@ -1,0 +1,229 @@
+.fundManageTableDiv{
+    .selectBtnDiv{
+        width: 100%;
+        height: 50px;
+        background: #e5ebf1;
+        display: flex;
+        justify-content: flex-start;
+        span{
+            display: inline-block;
+            width: 180px;
+            height: 50px;
+            line-height: 50px;
+            color: #333;
+            font-size: 18px;
+            text-align: center;
+            cursor: pointer;
+            &.active{
+                font-weight: bold;
+                color:#004584;
+            }
+        }
+    }
+    .fundManageTableDivContainer{
+        background: #fff;
+        .creditInfoTable, .fundManageTable{
+            width: 100%;
+            tbody{
+                width: 100%;
+                tr{
+                    font: 14px "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+                    color: #333;
+                    td{
+                        height: 37px;
+                        text-align: left;
+                        line-height: 37px;
+                        border: 1px solid rgba(219,223,229,1);
+                        padding-left: 70px;
+                        background: #fff;
+                        &:nth-child(1), &:nth-child(3){
+                            width: 25%;
+                            text-align: center;
+                            height:60px;
+                            background:rgba(239,242,247,1);
+                            font-weight: bold;
+                            padding-left: 0px !important;
+                        }
+                        // &.useFunctionFundTr{
+                        //     display: inline-block;
+                        //     width: 75%;
+                        //     height: 100px;
+                        //     overflow-y: scroll;
+                        //     .useFunctionFund{
+                        //         width:90%;
+                        //         min-height: 100px;
+                        //     }
+                        // }
+                        &.tdTitle{
+                            width: 100%;
+                            text-align: left;
+                            font-weight: bold !important;
+                            background: #fff!important;
+                            font-family: SourceHanSansCN-Bold;
+                            font-size: 16px;
+                            color: #333;
+                            border: none;
+                            height: 56px;
+                            line-height: 56px;
+                            padding-left: 0px !important;
+                            .blueBlock{
+                                display: inline-block;
+                                width: 4px;
+                                height: 20px;
+                                background:rgba(58,125,215,1);
+                                margin-right: 6px;
+                            }
+                        }
+                    }
+                }
+            }
+            &.fundManageTable{
+                margin-bottom: 70px;
+                min-height:900px;
+            }
+        }
+    }
+}
+.fundProductContainerDiv{
+    .fundProductShowDiv{
+        width: 100%;
+        height: 60px;
+        overflow-x: scroll;
+        .fundProductShow{
+            height: 55px;
+            display: flex;
+            justify-content: flex-start;
+            padding:5px 20px;
+            .productNameItem{
+                display: inline-block;
+                height:45px;
+                line-height:45px;
+                background-color:#169bd5;
+                color: #fff;
+                text-align:center;
+                border-radius: 3px;
+                margin-right:10px;
+                padding: 0 10px;
+                font-size: 16px;
+                flex-shrink: 0;
+                cursor: pointer;
+                &.active{
+                    background-color:#a6bec8;
+                }
+            }
+            .itemNoData{
+                font-size: 15px;
+                color: #2d2929;
+            }
+        }
+    }
+    .fundProductTableDiv{
+        background: #fff;
+        .itemNoTableData{
+            padding: 20px;
+            font-size: 16px;
+            color: #333;
+            font-weight: 700;
+        }
+        .fundProductTable{
+            width: 100%;
+            tbody{
+                width: 100%;
+                tr{
+                    font: 14px "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+                    color: #333;
+                    td{
+                        height: 37px;
+                        text-align: left;
+                        line-height: 37px;
+                        border: 1px solid rgba(219,223,229,1);
+                        padding-left: 70px;
+                        background: #fff;
+                        &:first-child{
+                            width: 25%;
+                            text-align: center;
+                            height:60px;
+                            background:rgba(239,242,247,1);
+                            font-weight: bold;
+                            padding-left: 0px !important;
+                        }
+                        &:last-child{
+                            width: 78%;
+                            text-align: left;
+                            padding-left: 70px;
+                            background: #fff;
+                        }
+                        &.tdTitle{
+                            width: 100%;
+                            text-align: left;
+                            font-weight: bold !important;
+                            background: #fff!important;
+                            font-family: SourceHanSansCN-Bold;
+                            font-size: 16px;
+                            color: #333;
+                            border: none;
+                            height: 56px;
+                            line-height: 56px;
+                            padding-left: 0px !important;
+                            .blueBlock{
+                                display: inline-block;
+                                width: 4px;
+                                height: 20px;
+                                background:rgba(58,125,215,1);
+                                margin-right: 6px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.manageInversionDiv{
+    background: #fff;
+    .inversionTitle{
+        width: 100%;
+        height: 50px;
+        background: #fff;
+        display: flex;
+        justify-content: flex-start;
+        span{
+            width:180px;
+            height:50px;
+            line-height:50px;
+            text-align:center;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            &.active{
+                background:rgba(239,242,247,1);
+            }
+        }
+    }
+    .inversionQuasition{
+        width: 100%;
+        tbody{
+            width: 100%;
+            tr{
+                font: 14px "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+                color: #333;
+                td{
+                    height: 37px;
+                    text-align: left;
+                    line-height: 37px;
+                    border: 1px solid rgba(219,223,229,1);
+                    padding-left: 70px;
+                    background: #fff;
+                    &:nth-child(1){
+                        width: 25%;
+                        text-align: center;
+                        height:60px;
+                        background:rgba(239,242,247,1);
+                        font-weight: bold;
+                        padding-left: 0px !important;
+                    }
+                }
+            }
+        }
+    }
+}

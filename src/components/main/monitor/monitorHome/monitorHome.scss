@@ -1,0 +1,380 @@
+.monitor-home-root{
+    width: 100%;
+    height: 100%;
+    padding: 0 40px;
+    .monitor-home-banner{
+        width: 100%;
+        height: 288px;
+        margin: 20px 0px;
+        background: url('../../../../images/monitor/TopBg.png') top center no-repeat;
+        text-align: center;
+        padding-top: 52px;
+        .warningInfo_root{
+            margin: 0 calc((100% - 130px*4) / 10)
+        }
+    }
+    .monitor-home-main{
+        width: 100%;
+        .btn-tab{
+            width: 100%;
+            height: 50px;
+            background-color: #CAD3DC;
+            padding-top: 9px;
+            .switch-btn span{
+                color: RGBA(11, 65, 125, 1);
+                border: 1px solid RGBA(11, 65, 125, 1);
+                padding: 0 25px;
+                margin-left: 30px;
+                font-weight: bold;
+            }
+            .switch-btn span.active, .switch-btn span:hover{
+               color: RGBA(3, 147, 217, 1);
+               border: 1px solid RGBA(3, 147, 217, 1);
+               background-color: transparent;
+            }
+        }
+        .content{
+            .tableContent{
+                width:100%;
+                overflow-x: scroll; 
+                input[type="checkbox"]{
+                    width:20px;
+                    height:20px;
+                    display: inline-block;
+                    text-align: center;
+                    vertical-align: middle; 
+                    line-height: 18px;
+                    position: relative;
+                }
+                input[type="checkbox"]::before{
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    background: #fff;
+                    width: 100%;
+                    height: 100%;
+                    border: 1px solid #d9d9d9;
+                    border-radius: 2px;
+                }
+                input[type="checkbox"]:checked::before{
+                    content: "\2713";
+                    background-color: #fff;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width:100%;
+                    border: 1px solid rgba(3, 146, 222, 1);
+                    border-radius: 2px;
+                    color: rgba(3, 146, 222, 1);
+                    font-size: 20px;
+                    font-weight: bold;
+                } 
+                table{
+                    width:200%;
+                    .company-hover:hover {
+                        cursor: pointer;
+                        color: #0e90d2;
+                    }
+                    input{
+                        width: 100px;
+                        height: 35px;
+                        line-height: 35px;
+                        font-size: 14px;
+                        font-weight: bold;
+                        outline: none;
+                        border-radius: 5px;
+                        border: 1px solid #ccc;
+                        text-align: center;
+                        cursor:pointer;
+                    }
+                    .icon-top{
+                        color: #F76D43;
+                        
+                    }
+                }
+            }
+        }
+    }
+}
+.mt-div{
+    .push-panel-box{
+       padding: 0 70px;
+       text-align: left;
+       .email-panel, .phone-panel{
+            width: 47%;
+            text-align: left;
+            .title{
+                font-size: 18px;
+                color: #333;
+                padding-top: 10px;
+            }
+            table{
+                th, td{
+                    padding: 10px 8px;
+                }
+                th{
+                    background-color: #fff;
+                }
+                td{
+                    border-bottom: none;
+                }
+            }
+        }
+        .email-panel{
+            margin-right: 6%;
+        }
+    }
+    .footer-panel{
+        text-align: center;
+        margin: 30px;
+    }
+    .monitorMore-panel{
+        padding: 0 70px;
+        text-align: left;
+        .switch-btn span{
+            background-color: transparent;
+            color: #000D35;
+            border: 1px solid #000D35;
+            width: 120px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            margin-right: 20px;
+        }
+        .table-content{
+            .ant-table-body{
+                height: 220px;
+                overflow: auto;
+                .ant-table-tbody>tr>td, .ant-table-thead>tr>th{
+                    padding: 9px 5px;
+                    height: 35px;
+                }
+                th{
+                    background-color: #fff;
+                }
+                td{
+                    border-bottom: none;
+                    .tableDiv{
+                        white-space:nowrap;
+                        overflow:hidden;
+                        text-overflow:ellipsis;
+                    }
+                }
+                th:nth-child(2), td:nth-child(2){
+                    width: 35%;
+                    max-width: 250px;
+                }
+                th:nth-child(3), td:nth-child(3){
+                    width: 25%;
+                    max-width: 190px;
+                }
+                th:nth-child(4), td:nth-child(4){
+                    width: 15%;
+                    max-width: 110px;
+                }
+            }
+            
+            .ant-table-placeholder{
+                top: -180px;
+            }
+            
+        }
+       
+        .mt-input{
+            width:410px;
+            height:32px;
+            border: none;
+            margin: 10px 0px 20px;
+            input{
+                height:32px;
+                border: 1px solid #000D35;
+                border-radius: 16px;
+                padding: 0 30px 0 15px;
+                font-size: 14px;
+                color: #666;
+            }
+            .mt-input-suffix{
+                right: 15px;
+                margin-top: -6px;
+                .icon-search{
+                    color: #000D35;
+                }
+            }
+        }
+        .btnBox{
+            display: inline-block;
+            margin: 10px 0px;
+            .backBtn{
+                height:32px;
+                background:rgba(255,255,255,1);
+                border-radius:16px;
+                color: #000D35;
+                border: 1px solid #000D35;
+                width: 120px;
+                text-align: center;
+                font-size: 16px;
+                display: inline-block;
+                line-height: 32px;
+                position: relative;
+                top: -18px;
+            }
+            button{
+                position: relative;
+                top: -18px;
+                height:32px;
+                background:rgba(255,255,255,1);
+                border-radius:16px;
+                color: #000D35;
+                border: 1px solid #000D35;
+                width: 120px;
+                text-align: center;
+                font-size: 16px;
+                margin-right: 20px;
+            }
+            .upload_label{
+                padding: 0px;
+                height:32px;
+                line-height: 32px;
+                border-radius:16px;
+                color: #000D35;
+                border: 1px solid #000D35;
+                width: 120px;
+                font-size: 16px;
+            }
+        }
+    }
+    .monitor-style{
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    .monitor-foot{
+        margin-top: 0px;
+        padding-top: 30px;
+        position: absolute;
+        bottom: 40px;
+        left: 268px;
+    }
+}
+.cancel_modal {
+    .mt-panel-min {
+        height: 100%;
+        border-radius: 4px;
+        padding: 0;
+    }
+    .mt-panel-box {
+        top: 40px;
+        width: 100%;
+        padding-left: 40px;
+        position: absolute;
+    }
+    .popUpFooter {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        bottom: 20px;
+        height: 60px;
+        padding-right: 20px;
+        line-height: 60px;
+        border-radius: 4px;
+        text-align: center;
+        button:first-child {
+            margin-right: 20px;
+        }
+
+    }
+    .modalBtn {
+        width: 109px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        color: #FFFFFF;
+        border-radius: 2px;
+    }
+    .modalBorderBtn {
+        border: 1px solid #e5ebef;
+        background: #FFFFFF;
+        color: #808080;
+    }
+    .backStyle{
+        background-color: #00A0E9;
+    }
+    .icon-isSure{
+        color:#FFBB33;
+        margin-right: 5px;
+    }
+    .mt-warn-content{
+        font-size: 18px;
+        padding: 30px 0;
+    }
+    
+}
+.pushSet-modal{
+    .icon-close:before{
+        color: #ccc;
+    }
+    .ant-table-body{
+        height: 235px;
+        overflow: auto;
+    }
+    
+    .eTile{
+        font-weight: bold;
+        color: #333;
+        font-size: 16px;
+        .oriColor{
+            color: #F76D43;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        button{
+            color: #0293DC;
+            font-size: 16px;
+            font-weight: bold;
+            background: transparent;
+            margin-right: 10px;
+        }
+        .grayColor{
+            color: #969696;
+        }
+    }
+    .push-panel-box{
+        .ant-table-content{
+            position: relative;
+            .ant-table-placeholder{
+                position: absolute;
+                top: 20%;
+                width: 100%;
+            }
+        }
+        .hidden{
+            visibility:hidden;
+        }
+        .addBox{
+            input{
+                width: 50%;
+                height: 30px;
+                line-height: 30px;
+                font-size: 16px;
+                border: 1px solid #f00;
+                padding: 0 5px;
+
+            }
+            button{
+                width: 15%;
+                margin-left: 5%;
+                height: 30px;
+                line-height: 30px;
+                background: transparent;
+                border: 1px solid #f00;
+                font-size: 14px;
+                color: #f00;
+            }
+            button:hover{
+                opacity: 0.5;
+            }
+        }
+    }
+
+}
+

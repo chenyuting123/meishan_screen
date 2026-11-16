@@ -1,0 +1,16 @@
+body{
+	.activeMap{
+		height: 100%;
+		width: 82%;
+		.textLineHide{
+			height: 100%;
+		}
+	}
+    .activeMap-canvas{
+        background: none;
+    }
+}
+.selects{
+	position: absolute;
+	z-index: 1000;
+}

@@ -1,0 +1,9 @@
+@import '../../../../styles/mixin';
+.TendencyChart_root{
+    width: 100%;
+    min-width: 369px;
+    height: 310px;
+    border: 2px solid rgba(2,147,220,.4);
+    background-color: rgba(8,40,67,.4);
+    @include titleStyle();
+}

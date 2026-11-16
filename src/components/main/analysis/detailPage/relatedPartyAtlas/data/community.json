@@ -1,0 +1,180 @@
+{
+  "links": [
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "relationScore": 0.12288026
+      },
+      "startId": "c315c3c4479173a0774e2e08e6beaf87"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "relationScore": 0.0696052
+      },
+      "startId": "af8a3a619d92114c8c8a8402616c90dc"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "relationScore": 0.052979443
+      },
+      "startId": "e9812361c56090ef9d9c0376fa0f8a56"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "relationScore": 0.09268562
+      },
+      "startId": "0bf51e7afd574d929fda8859647673f7"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "relationScore": 0.052979443
+      },
+      "startId": "9d0ac8ba661340ebb98fef6920ca1ff3"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "relationScore": 0.0759614
+      },
+      "startId": "1724e3b9fd4616d7ff978bd84c018b80"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "relationScore": 0.46419552
+      },
+      "startId": "c315c3c4479173a0774e2e08e6beaf87"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "relationScore": 0.10211161
+      },
+      "startId": "72e137ec24614041844c4949065aed41"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "relationScore": 0.19686309
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "relationScore": 0.17224997
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "properties": {
+        "relationScore": 0.13373657
+      },
+      "startId": "c315c3c4479173a0774e2e08e6beaf87"
+    },
+    {
+      "endId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "properties": {
+        "relationScore": 0.07767938
+      },
+      "startId": "e9812361c56090ef9d9c0376fa0f8a56"
+    },
+    {
+      "endId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "properties": {
+        "relationScore": 0.04638548
+      },
+      "startId": "0bf51e7afd574d929fda8859647673f7"
+    },
+    {
+      "endId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "properties": {
+        "relationScore": 0.046319645
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "properties": {
+        "relationScore": 0.07690804
+      },
+      "startId": "af8a3a619d92114c8c8a8402616c90dc"
+    }
+  ],
+  "nodes": [
+    {
+      "bbdQyxxId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "black": false,
+      "companyName": "成都数联铭品科技有限公司",
+      "estatus": "存续",
+      "human": false,
+      "labels": null,
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "c315c3c4479173a0774e2e08e6beaf87",
+      "dwtzxx": 44,
+      "human": true,
+      "personName": "曾途"
+    },
+    {
+      "bbdQyxxId": "af8a3a619d92114c8c8a8402616c90dc",
+      "dwtzxx": 7,
+      "human": true,
+      "personName": "李冰玉"
+    },
+    {
+      "bbdQyxxId": "e9812361c56090ef9d9c0376fa0f8a56",
+      "dwtzxx": 2,
+      "human": true,
+      "personName": "廖勇翔"
+    },
+    {
+      "bbdQyxxId": "0bf51e7afd574d929fda8859647673f7",
+      "black": false,
+      "companyName": "安徽星数数据科技有限公司",
+      "estatus": "存续",
+      "human": false,
+      "labels": null,
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "9d0ac8ba661340ebb98fef6920ca1ff3",
+      "black": false,
+      "companyName": "成都数维智信科技有限公司",
+      "estatus": "存续",
+      "human": false,
+      "labels": null,
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "1724e3b9fd4616d7ff978bd84c018b80",
+      "dwtzxx": 6,
+      "human": true,
+      "personName": "李然"
+    },
+    {
+      "bbdQyxxId": "72e137ec24614041844c4949065aed41",
+      "black": false,
+      "companyName": "安徽数联铭品科技有限公司",
+      "estatus": "存续",
+      "human": false,
+      "labels": null,
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "431bfc2243f14425919164ce208f71fb",
+      "black": false,
+      "companyName": "贵州数联铭品科技有限公司",
+      "estatus": "存续",
+      "human": false,
+      "labels": null,
+      "riskCount": 0
+    }
+  ]
+}

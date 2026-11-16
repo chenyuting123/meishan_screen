@@ -1,0 +1,20 @@
+.detail-radar {
+  .chart-box {
+    position: relative;
+
+    .radar-lable-tip {
+      width: 200px;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background: rgba(255, 255, 255, 0.8);
+      box-shadow: 1px 1px 0 hsla(220, 8%, 93%, .5);
+      color: #666;
+      padding: 10px;
+      display: none;
+      border-radius: 2px;
+    }
+
+  }
+
+}

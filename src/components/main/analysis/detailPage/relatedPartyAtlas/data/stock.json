@@ -1,0 +1,5338 @@
+{
+  "centerNode": {
+    "address": "成都高新区天府大道中段199号1栋1单元21楼1-6号",
+    "bbdQyxxId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+    "black": false,
+    "companyName": "成都数联铭品科技有限公司",
+    "degree": 0,
+    "dwtzxx": 10,
+    "estatus": "存续",
+    "human": false,
+    "labels": [
+      "Company",
+      "Entity"
+    ],
+    "riskCount": 0
+  },
+  "contributiveNodes": [
+    {
+      "address": "北京市房山区良乡凯旋大街建设路18号-D670",
+      "bbdQyxxId": "7d75cab1d58d441e8beeb71353488b8e",
+      "black": false,
+      "companyName": "北京数联铭品科技有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "四川省成都市天府新区天府大道南段888号",
+      "bbdQyxxId": "368ce9e7570848b7a9b04fe944c6219a",
+      "black": false,
+      "companyName": "成都数联铭品企业信用评估服务有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市嘉定区菊园新区环城路2222号1幢J2003室",
+      "bbdQyxxId": "c497f23b5c24414b9f977452c1dacc8a",
+      "black": false,
+      "companyName": "上海新经数联科技有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "重庆市两江新区大竹林街道华山南路16号9号楼",
+      "bbdQyxxId": "d7721f359439422eb867ccf3be6b9363",
+      "black": false,
+      "companyName": "重庆数联铭信科技有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "龙洞堡电子商务港A栋2单元9层7号",
+      "bbdQyxxId": "431bfc2243f14425919164ce208f71fb",
+      "black": false,
+      "companyName": "贵州数联铭品科技有限公司",
+      "degree": 1,
+      "dwtzxx": 19,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（四川）自由贸易试验区成都高新区天府大道北段28号1栋1单元26层1号",
+      "bbdQyxxId": "ff9a8d6465594710bfb79aefcf3f0573",
+      "black": false,
+      "companyName": "成都数联惠法科技有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "四川省成都市天府新区兴隆街道宝塘村成都科学城金融中心",
+      "bbdQyxxId": "29be8a7bff934366b74a1bead3d1d6fd",
+      "black": false,
+      "companyName": "成都三泰铭品金融信息服务有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "南京市江宁开发区胜利路89号紫金研创中心4号楼802室",
+      "bbdQyxxId": "d71615dc58d849048a2755cbbdf3e041",
+      "black": false,
+      "companyName": "南京中润铭品信息科技有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州省贵阳市南明区龙洞堡电子商务港A栋2单元9层7号",
+      "bbdQyxxId": "fc8c30062cbe48f5b92c1e4ff62e6889",
+      "black": false,
+      "companyName": "贵州双龙数联科技有限公司",
+      "degree": 1,
+      "dwtzxx": 2,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）",
+      "bbdQyxxId": "afe2cce29272432abbfd521c9bbe0495",
+      "black": false,
+      "companyName": "深圳易联大数据金融服务有限公司",
+      "degree": 1,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "合肥市高新区创新大道2800号创新产业园二期F1楼707室",
+      "bbdQyxxId": "0bf51e7afd574d929fda8859647673f7",
+      "black": false,
+      "companyName": "安徽星数数据科技有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（四川）自由贸易试验区成都高新区南华路1616号1栋2单元8层803号",
+      "bbdQyxxId": "4ee76ec6c9644dcf85a93f84d96f42df",
+      "black": false,
+      "companyName": "成都网思数联科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "合肥市蜀山区新产业园自主创新产业基地三期（南区）D座10层1001室",
+      "bbdQyxxId": "72e137ec24614041844c4949065aed41",
+      "black": false,
+      "companyName": "安徽数联铭品科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市朝阳区水岸南街16号楼4层453内2",
+      "bbdQyxxId": "ad736d7e9e9540068113043e290e68c5",
+      "black": true,
+      "companyName": "北京怀德海智能科技研究院有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "贵州省贵阳市双龙航空港经济区龙洞堡跑马井机场路经典天成1号写字楼11层（双龙数据工场）",
+      "bbdQyxxId": "f8e4ca6a608441508671ce95455a9731",
+      "black": false,
+      "companyName": "贵州痛客梦工场科技有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市房山区阎村镇阎富路1号9号楼4层411",
+      "bbdQyxxId": "7496ab67be584f0db910ef581b43fe79",
+      "black": false,
+      "companyName": "北京数联铭品睿智科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州省贵阳市南明区龙洞堡电子商务港太升国际A栋2单元9层7号",
+      "bbdQyxxId": "546467b0ec8d495f87b5bb19baedd3fb",
+      "black": false,
+      "companyName": "贵州基石数据科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "江西省上饶市信州区三清山东大道168号上饶数字经济服务园201室",
+      "bbdQyxxId": "902ac77e105749389203ebd3094a8c7c",
+      "black": false,
+      "companyName": "上饶市瀚潇网络科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市东城区东四十二条21号",
+      "bbdQyxxId": "8c58d87ff15d4506b41507efe8e47d58",
+      "black": false,
+      "companyName": "北京中青雄狮大数据科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州双龙航空港经济区港产业基地大数据工场10层",
+      "bbdQyxxId": "b115ddd5bcc243db88628e75abd8c336",
+      "black": false,
+      "companyName": "乘方大数据（贵阳）有限责任公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州省贵阳市贵阳国家高新技术产业开发区都匀路89号金利大厦商业写字楼及商铺第B幢（B）1单元6层19号",
+      "bbdQyxxId": "c27a5b3dba424c39b7638a16853adda5",
+      "black": false,
+      "companyName": "贵州易农数联科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市嘉定区嘉戬公路328号7幢J1055室",
+      "bbdQyxxId": "ddd675b271a9464285ac827c65bf3a7d",
+      "black": false,
+      "companyName": "上海诚数信息科技有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市浦东新区洪山路172号",
+      "bbdQyxxId": "a23723f936644dceb321e97440553d5b",
+      "black": false,
+      "companyName": "上海睿阁数据科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市朝阳区望京西路甲50号1号楼7层（新企航孵化器1518号）",
+      "bbdQyxxId": "fdb300156c074257b215a1eeb1b0c582",
+      "black": false,
+      "companyName": "北京数联众信科技有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "无锡市惠山区中惠大道1588号77号楼101室（城铁惠山站区）",
+      "bbdQyxxId": "f62d35a293ea4c45babeb96918d730d6",
+      "black": false,
+      "companyName": "文道供应链管理有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "南京市雨花台区软件大道106号2栋1楼东侧1131",
+      "bbdQyxxId": "4711d8dc486e4daf8909e83dd70cee11",
+      "black": false,
+      "companyName": "南京安链数据科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州省黔南布依族苗族自治州惠水县百鸟河数字小镇营销村A区A5栋B单元2楼",
+      "bbdQyxxId": "42656ec24cec41f59ad92f84a8a003b9",
+      "black": false,
+      "companyName": "黔南铭品科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市朝阳区望京西路甲50号1号楼7层（新企航孵化器1496号）",
+      "bbdQyxxId": "0069a5e51d5c4a1084e2cc8833fadb3e",
+      "black": false,
+      "companyName": "北京世威数联科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市嘉定区华江公路129弄6号J935室",
+      "bbdQyxxId": "5706066a952f445dbf0853a85c9e7125",
+      "black": false,
+      "companyName": "上海涌数信息科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市海淀区北四环西路66号12层1502",
+      "bbdQyxxId": "d3c839da64f14bb883286b89a0f21a57",
+      "black": false,
+      "companyName": "北京杰云数联科技有限公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "贵州省贵阳市贵阳国家高新技术产业开发区金阳科技产业园标准厂房辅助用房B207室",
+      "bbdQyxxId": "d2cf7f5a2eef470384a9e4ff0b8a55ce",
+      "black": false,
+      "companyName": "贵州煜滕煤炭行业大数据信息中心有限责任公司",
+      "degree": 2,
+      "dwtzxx": 0,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    }
+  ],
+  "investNodes": [
+    {
+      "bbdQyxxId": "c315c3c4479173a0774e2e08e6beaf87",
+      "degree": 1,
+      "dwtzxx": 12,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "曾途"
+    },
+    {
+      "address": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）",
+      "bbdQyxxId": "fa235147301c0b4457b60eb3a45f0d1f",
+      "black": false,
+      "companyName": "深圳市凯奇飞翔股权投资合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）",
+      "bbdQyxxId": "9ca7ef0f2f4943d4b8d2fd1a1e757e86",
+      "black": false,
+      "companyName": "深圳市必必德股权投资合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "de9280123e5347b2181297c31c38271a",
+      "degree": 1,
+      "dwtzxx": 19,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "周涛"
+    },
+    {
+      "bbdQyxxId": "b41e0bd535948c65c971e572e45ba484",
+      "degree": 1,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "廖少华"
+    },
+    {
+      "address": "重庆市渝北区财富大道2号9-6",
+      "bbdQyxxId": "d8281179259b4ee2ad1d6f02486cd0ab",
+      "black": false,
+      "companyName": "重庆市泰辉投资有限公司",
+      "degree": 1,
+      "dwtzxx": 9,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "苏州工业园区普惠路456*",
+      "bbdQyxxId": "5eb8577a40084ec58584745fe872dbac",
+      "black": false,
+      "companyName": "苏州利保文鑫投资中心（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 4,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "平潭综合实验区金井湾片区商务营运中心",
+      "bbdQyxxId": "bbee9fd17946443c8f25df140b85f801",
+      "black": false,
+      "companyName": "平潭亨荣贸易有限公司",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "新疆喀什地区喀什经济开发区深喀大道北侧喀什发展大厦",
+      "bbdQyxxId": "a572ea2beee44fa2b37548b0fabc99ae",
+      "black": false,
+      "companyName": "骑士智和（喀什）投资有限公司",
+      "degree": 1,
+      "dwtzxx": 5,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市朝阳区天朗园C座3层03商业811号",
+      "bbdQyxxId": "5cbcfbd0d7aa4aa79565636ca90305b5",
+      "black": false,
+      "companyName": "北京万桥中合投资管理中心（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国(福建)自由贸易试验区厦门片区象屿路97号厦门国际航运中心D栋8层03单元C之七",
+      "bbdQyxxId": "ba81f5e6b59f416e9f53dcf107849603",
+      "black": false,
+      "companyName": "厦门南方小村壹号创业投资合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市崇明区堡镇堡镇南路58号14幢1楼102-4室（上海堡镇经济小区）",
+      "bbdQyxxId": "f764cc6b62cb47859f9f7f7d981aaae2",
+      "black": false,
+      "companyName": "上海斗锋信息科技合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市崇明区新海镇跃进南路495号4幢3190室（光明米业经济园区）",
+      "bbdQyxxId": "7cb0744ba2dd410db7c909ee65972c59",
+      "black": false,
+      "companyName": "上海力驶投资管理有限公司",
+      "degree": 1,
+      "dwtzxx": 6,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "浦东新区南汇新城镇芦潮港路1758号1幢A－353室",
+      "bbdQyxxId": "2b369b90d55c4579b3c345f91397b4ec",
+      "black": false,
+      "companyName": "上海鼎晖创泰创业投资中心（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 15,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "92b77d1582e821f214ee97f3268fe1f2",
+      "degree": 1,
+      "dwtzxx": 7,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "韩庆祥"
+    },
+    {
+      "address": "长兴经济开发区明珠路1278号长兴世贸大厦A楼15层1568室",
+      "bbdQyxxId": "9e76d33644d14847b170654eb9b7b3ff",
+      "black": false,
+      "companyName": "长兴兴潮股权投资合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "成都高新区肖家河环四巷7号1幢1-2号",
+      "bbdQyxxId": "7ee5244053dc4e07abc8a0a07fda5eea",
+      "black": false,
+      "companyName": "成都光华云信息技术中心（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（福建）自由贸易试验区厦门片区象屿路97厦门国际航运中心D栋8层03单元A之四",
+      "bbdQyxxId": "93320b627a734c3e8a227929188f5cb7",
+      "black": false,
+      "companyName": "厦门盛世纪股权投资有限公司",
+      "degree": 1,
+      "dwtzxx": 8,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（四川）自由贸易试验区成都高新区交子大道177号1栋1单元16楼1604号",
+      "bbdQyxxId": "2638d287f9bd45e583ce7c64b3db224b",
+      "black": false,
+      "companyName": "成都鼎兴量子投资管理有限公司",
+      "degree": 1,
+      "dwtzxx": 29,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "成都市武侯区长益路11号1栋8层24号",
+      "bbdQyxxId": "8fa3a5fbc9b74a1bb83ae2b4d175061c",
+      "black": false,
+      "companyName": "成都鼎量金元企业管理中心（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 3,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（四川）自由贸易试验区成都高新区天府大道北段1700号1栋2单元12层1208号",
+      "bbdQyxxId": "f331079a7c434d6b9c0651c048dc1d84",
+      "black": false,
+      "companyName": "成都锦城祥投资有限公司",
+      "degree": 1,
+      "dwtzxx": 6,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "深圳市福田区莲花街道深南大道特区报业大厦东区23层",
+      "bbdQyxxId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "black": false,
+      "companyName": "深圳市达晨创丰股权投资企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 60,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "浙江省宁波市北仑区梅山大道商务中心八号办公楼907室",
+      "bbdQyxxId": "22de6d8784db46439b51c45dd898908c",
+      "black": false,
+      "companyName": "宁波梅山保税港区创景股权投资基金合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "41692bc2042126bca5ea52af60f8ed35",
+      "degree": 1,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "游源"
+    },
+    {
+      "bbdQyxxId": "521521662479369c576021bc3b9320be",
+      "degree": 1,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "贾君荣"
+    },
+    {
+      "bbdQyxxId": "daf7e175634b971b46b1ac85d312dd00",
+      "degree": 1,
+      "dwtzxx": 5,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "倪伟忠"
+    },
+    {
+      "address": "-",
+      "bbdQyxxId": "48c77125e7be4f73b4a6fb23f90aface",
+      "black": false,
+      "companyName": "深圳市华睿一号投资企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "-",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "浙江省宁波市北仑区梅山盐场1号办公楼十六号227室",
+      "bbdQyxxId": "6dac9f2ffb1543de963b906f7e301e17",
+      "black": false,
+      "companyName": "宁波梅山保税港区沐言投资合伙企业（有限合伙）",
+      "degree": 1,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "f6150b69276eea94666380075ca3400f",
+      "degree": 1,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "吕强"
+    },
+    {
+      "address": "北京市海淀区知春路63号中国卫星通信大厦东塔2层01室",
+      "bbdQyxxId": "7d1b31360bcf43fb997f6447d246e13c",
+      "black": false,
+      "companyName": "千帆资本有限公司",
+      "degree": 2,
+      "dwtzxx": 21,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "苏州工业园区苏虹东路183号19号楼2层220室",
+      "bbdQyxxId": "f3d15684e2c94afebf37f963be96e369",
+      "black": false,
+      "companyName": "苏州鼎晖华禾创业投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 5,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "fbee0a814a3e022358bc3a568c6ddc00",
+      "degree": 2,
+      "dwtzxx": 7,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "蒲洪友"
+    },
+    {
+      "address": "重庆市渝北区财富大道2号9-5",
+      "bbdQyxxId": "805d2345076149338781f47d8d5e60b6",
+      "black": false,
+      "companyName": "重庆泰辉云沣企业管理咨询中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 2,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市嘉定区嘉戬公路328号7幢J22室",
+      "bbdQyxxId": "7d6c838f57c2471a926147141b170ad4",
+      "black": false,
+      "companyName": "上海荣正利保投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 37,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "64e40989c0d6a33ba33f5026b9bc67ba",
+      "degree": 2,
+      "dwtzxx": 7,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "周文波"
+    },
+    {
+      "bbdQyxxId": "9d3b93f2573a56f083c959631f7969c4",
+      "degree": 2,
+      "dwtzxx": 7,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "王建军"
+    },
+    {
+      "bbdQyxxId": "4e2ea77eef4ab814bb7436580185e528",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "秦伟芳"
+    },
+    {
+      "bbdQyxxId": "ad7bb5d4059de3f740b0429ff74cadbb",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "潘爱荻"
+    },
+    {
+      "address": "青浦区青湖路728号2层A区243室",
+      "bbdQyxxId": "86d9d29244c94ff7ba9385d5dd6efe3b",
+      "black": false,
+      "companyName": "上海利保投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 39,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 6
+    },
+    {
+      "bbdQyxxId": "41d599410d528af4b4f60db173cc62f1",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李健"
+    },
+    {
+      "bbdQyxxId": "373b7eef3c757946f446a6c62b9ff865",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "王美芳"
+    },
+    {
+      "bbdQyxxId": "8a4bbb8270f3052499b52b9d34f0637d",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "陈毓雯"
+    },
+    {
+      "bbdQyxxId": "3b49d1e1a5c76f8a27c79fd324acb03d",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李晓灵"
+    },
+    {
+      "bbdQyxxId": "2a50414f25f5b4a0fd6d3e2913986aa3",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "殷群"
+    },
+    {
+      "bbdQyxxId": "3ec537c4a5a5650be088ef4d750b7953",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "周劲鹰"
+    },
+    {
+      "bbdQyxxId": "b4fde1d61e16b532026235c6b3b2826a",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "江荣"
+    },
+    {
+      "bbdQyxxId": "13690bb782238b8d0ed1164ef7152d10",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "袁君培"
+    },
+    {
+      "bbdQyxxId": "afb237957c5d22aed3bd17e3939b7a6c",
+      "degree": 2,
+      "dwtzxx": 5,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "梁宾"
+    },
+    {
+      "bbdQyxxId": "465431418db0fa410ccddbae86b4c36d",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "江义鑫"
+    },
+    {
+      "bbdQyxxId": "3d7a32e118d09a1aa86b0b7728ad78cb",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李莉"
+    },
+    {
+      "bbdQyxxId": "82685cb4183b59ec23a0e4ec6246cdf2",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "汪浩"
+    },
+    {
+      "bbdQyxxId": "05565136afd7bd2c0e3ed0f96a3e7c1c",
+      "degree": 2,
+      "dwtzxx": 3,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "邱少荣"
+    },
+    {
+      "bbdQyxxId": "1560a5a9d229cb4cfe1e7e4b271913fc",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "汪爱萍"
+    },
+    {
+      "bbdQyxxId": "bffece83cfed1b818f182b78ecd435c1",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "方志强"
+    },
+    {
+      "bbdQyxxId": "45f57e03ae01197b8c7ade91b736b524",
+      "degree": 2,
+      "dwtzxx": 3,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "梁仲晖"
+    },
+    {
+      "bbdQyxxId": "52474f766983e6fc11e09b1a1abc6bc1",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "单海芬"
+    },
+    {
+      "bbdQyxxId": "70f7b25f53e6bd7abe5f59cf8a57d33a",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "高翔"
+    },
+    {
+      "bbdQyxxId": "2637efc418450f387a4af5fb7bdae4a2",
+      "degree": 2,
+      "dwtzxx": 3,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "施伟清"
+    },
+    {
+      "bbdQyxxId": "20d437ffadb4217697b69fac389f16f5",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李忠"
+    },
+    {
+      "bbdQyxxId": "f6c2c96bcf3aea508aa06209de8297c1",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "段端"
+    },
+    {
+      "bbdQyxxId": "53b26db366df830893ea84fd3cc012d4",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "谢苏豫"
+    },
+    {
+      "bbdQyxxId": "b151cd732861989667b5e64a16c8b90e",
+      "degree": 2,
+      "dwtzxx": 3,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "鲍国煜"
+    },
+    {
+      "bbdQyxxId": "5a1edc273fa5c85670cd09625c8349ce",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "魏志延"
+    },
+    {
+      "bbdQyxxId": "3ef01c7aa954384ee8b5c82928d225c9",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李福亿"
+    },
+    {
+      "bbdQyxxId": "3f6eee16e4c6f0ee572707e4da23273d",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "王海晔"
+    },
+    {
+      "bbdQyxxId": "50de80599a7896b83006022dcdbd4a6b",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "袁彬"
+    },
+    {
+      "bbdQyxxId": "5cbfde9c48d9ffa6",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "张可钦"
+    },
+    {
+      "bbdQyxxId": "f8c56712b968edc7092e026b216fe9f7",
+      "degree": 2,
+      "dwtzxx": 5,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "潘著林"
+    },
+    {
+      "bbdQyxxId": "9e54807c49b7a7911f562862f70b686b",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "谢骞逸"
+    },
+    {
+      "address": "北京市朝阳区建国门外大街1号院1号楼38层08-12单元",
+      "bbdQyxxId": "4e13c4357758424ca3372e637d9e28ae",
+      "black": true,
+      "companyName": "骑士道同（北京）投资有限公司",
+      "degree": 2,
+      "dwtzxx": 6,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "河北省廊坊市固安县新兴产业示范区",
+      "bbdQyxxId": "523f1615efe94425ab1945a2aeabbfb9",
+      "black": false,
+      "companyName": "知合资本管理有限公司",
+      "degree": 2,
+      "dwtzxx": 17,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "3699aafed017a24ae0d7aa10e6efbd60",
+      "degree": 2,
+      "dwtzxx": 15,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "曹蕾"
+    },
+    {
+      "address": "佛山市顺德区陈村镇南涌居委会白陈路南涌段38号厂房之四",
+      "bbdQyxxId": "f408108583c944f1886edfdaa097a8db",
+      "black": true,
+      "companyName": "佛山市顺德区众实企业资产管理有限公司",
+      "degree": 2,
+      "dwtzxx": 11,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "北京市西城区红莲南路28号6-1幢4层4018室",
+      "bbdQyxxId": "964ade622e0f479095c69bab7b01b370",
+      "black": true,
+      "companyName": "北京沃石投资顾问有限公司",
+      "degree": 2,
+      "dwtzxx": 28,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 10
+    },
+    {
+      "address": "中国（福建）自由贸易试验区厦门片区象屿路97号厦门国际航运中心D栋8层03单元C之七",
+      "bbdQyxxId": "fae38c46a1d940de8c4e06c2e14fd8a9",
+      "black": false,
+      "companyName": "当代小村（厦门）投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "中国（福建）自由贸易试验区厦门片区翔云一路95号运通中心604B单元之九十八号",
+      "bbdQyxxId": "d4e1670421b84846afefe62044ce8f87",
+      "black": false,
+      "companyName": "厦门当代南方投资有限公司",
+      "degree": 2,
+      "dwtzxx": 12,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市崇明县城桥镇东河沿68号B幢533室（上海城桥经济开发区）",
+      "bbdQyxxId": "ee8948573ded40d2af2df4dcf4498291",
+      "black": false,
+      "companyName": "上海磁焱资产管理有限公司",
+      "degree": 2,
+      "dwtzxx": 16,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市朝阳区东直门外大街甲26号院1号楼7层701内722",
+      "bbdQyxxId": "4b108f1a90f741b881d20fec81ac8c38",
+      "black": false,
+      "companyName": "北京国资银资产管理有限公司",
+      "degree": 2,
+      "dwtzxx": 3,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "ba6b762caa226adb",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "何金梅"
+    },
+    {
+      "bbdQyxxId": "e9341d7c65a96a5b364c780cb0a46597",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "刘军"
+    },
+    {
+      "bbdQyxxId": "b07bd56d4434e857284614e8262b5e12",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "史金祥"
+    },
+    {
+      "bbdQyxxId": "2a735805244ec0cda88365899bf1f31a",
+      "degree": 2,
+      "dwtzxx": 5,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "徐熙彤"
+    },
+    {
+      "address": "上海市崇明县长江农场长江大街161号2幢2247室（上海长江经济园区）",
+      "bbdQyxxId": "d401892ae422427a86aa767dc91208a7",
+      "black": false,
+      "companyName": "上海淡竹投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 1
+    },
+    {
+      "address": "靖江市新天地花园1幢1-3层",
+      "bbdQyxxId": "c871e41259164ecfa2074a765b1cbc45",
+      "black": false,
+      "companyName": "靖江新伟业投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 2,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "7136988aaa67d76639d242063ace8d69",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "师大寨"
+    },
+    {
+      "bbdQyxxId": "9e8e1f0ea452886aeabe13ad4d01c723",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "刘振"
+    },
+    {
+      "address": "浦东新区南汇新城镇环湖西一路333号C座359室",
+      "bbdQyxxId": "2e3662d7c23f48998d3daf111c30eeb5",
+      "black": false,
+      "companyName": "上海鼎晖创禾创业投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "北京市海淀区科学院南路2号院1号楼14层1412",
+      "bbdQyxxId": "c440bbb612824b7da2b458a4490df739",
+      "black": false,
+      "companyName": "中国科学院控股有限公司",
+      "degree": 2,
+      "dwtzxx": 77,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 4
+    },
+    {
+      "address": "浙江省杭州市余杭区仓前街道海创科技中心2幢3层306-1",
+      "bbdQyxxId": "ce82a1ee402e47f792cf5775a7842ef0",
+      "black": false,
+      "companyName": "杭州成盟资产管理有限公司",
+      "degree": 2,
+      "dwtzxx": 2,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "173b0ac3a6d5de87",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "夏芳"
+    },
+    {
+      "bbdQyxxId": "ca3306f561658c6a7e5f69d8c5a72717",
+      "degree": 2,
+      "dwtzxx": 9,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "张铭汗"
+    },
+    {
+      "bbdQyxxId": "b6a272cf8bb092c2d32bd0046a71aa1f",
+      "degree": 2,
+      "dwtzxx": 12,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "廖品荣"
+    },
+    {
+      "bbdQyxxId": "2845dafadbc47cef82be8f0f010d18a4",
+      "degree": 2,
+      "dwtzxx": 11,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "秦海清"
+    },
+    {
+      "bbdQyxxId": "1551e4fc74e2b4df718127f5df12b66a",
+      "degree": 2,
+      "dwtzxx": 10,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "欧宇"
+    },
+    {
+      "bbdQyxxId": "9d219b8908bc8661a01ce353368eb7c2",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "杨李伟"
+    },
+    {
+      "address": "-",
+      "bbdQyxxId": "8f221e2ebb6c4b469aa62dce2301d21b",
+      "black": false,
+      "companyName": "三盛集团有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "-",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "福州市仓山区则徐大道368弄12号14号楼",
+      "bbdQyxxId": "ff1bb46ec86049179a5ea1f8c99b6d52",
+      "black": false,
+      "companyName": "福州卓成贸易有限公司",
+      "degree": 2,
+      "dwtzxx": 4,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "4f17766d4ed5b4ee4bb75b2b6b90d7dc",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "黄兴旺"
+    },
+    {
+      "bbdQyxxId": "a3197720a93a457fe038e63cd70bc614",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "纪超云"
+    },
+    {
+      "bbdQyxxId": "17df39d218f05babab4acb1d82a366ed",
+      "degree": 2,
+      "dwtzxx": 2,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "毛传平"
+    },
+    {
+      "address": "北仑区梅山盐场1号办公楼十一号977室",
+      "bbdQyxxId": "b29c6cc546dc4fe088df4a8c0ca6af91",
+      "black": false,
+      "companyName": "宁波梅山保税港区长兴永朔资产管理有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "上海市浦东新区光明路718号311、312室",
+      "bbdQyxxId": "5e6ab145a30445b4b2c609515d3096b0",
+      "black": false,
+      "companyName": "国金鼎兴投资有限公司",
+      "degree": 2,
+      "dwtzxx": 28,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 2
+    },
+    {
+      "address": "成都市新津县五津镇希望城",
+      "bbdQyxxId": "3e402d3721244de48f74ecb5f85aa8fc",
+      "black": false,
+      "companyName": "四川特驱投资集团有限公司",
+      "degree": 2,
+      "dwtzxx": 28,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 10
+    },
+    {
+      "address": "成都市武侯区武科东二路11号7幢4层7-4号",
+      "bbdQyxxId": "f8c56bc32b624fcb94b47c61a634ab82",
+      "black": true,
+      "companyName": "四川省汇川送变电建设有限责任公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 37
+    },
+    {
+      "address": "成都市青羊区敬业路218号25幢1楼1号",
+      "bbdQyxxId": "bd3776132c9845aa9066c7ca842f42e4",
+      "black": false,
+      "companyName": "四川省西点电力设计有限公司",
+      "degree": 2,
+      "dwtzxx": 3,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 12
+    },
+    {
+      "address": "成都市高新区西区天朗路39号",
+      "bbdQyxxId": "cfdf00c75acc4bdebdf3088b6315b1c0",
+      "black": true,
+      "companyName": "四川省送变电建设有限责任公司",
+      "degree": 2,
+      "dwtzxx": 8,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 80
+    },
+    {
+      "address": "深圳市福田区深南大道特区报业大楼2303",
+      "bbdQyxxId": "e3c1401eb4bf44f3a9d02415639bb135",
+      "black": false,
+      "companyName": "深圳市达晨财智创业投资管理有限公司",
+      "degree": 2,
+      "dwtzxx": 24,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "a21e72081f4e414f7351ca170b3d6742",
+      "degree": 2,
+      "dwtzxx": 16,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "孙焕良"
+    },
+    {
+      "bbdQyxxId": "b6f5ac7a86f5888ed50cbb139d828a3c",
+      "degree": 2,
+      "dwtzxx": 16,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "陈立英"
+    },
+    {
+      "address": "上海市杨浦区黄兴路2005弄2号（B楼）512-14室",
+      "bbdQyxxId": "d166f32252b94241908652bbe844e21f",
+      "black": false,
+      "companyName": "上海歌斐鸿仑投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 2,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "031a6987fa70e1059b1bf70d55d5441b",
+      "degree": 2,
+      "dwtzxx": 10,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "马卫"
+    },
+    {
+      "address": "上海市嘉定区霜竹公路4450号、4490号4幢3层B区3466室",
+      "bbdQyxxId": "12113bb19b194585814f30bf3dbb25b2",
+      "black": false,
+      "companyName": "上海歌斐惟忠股权投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 3,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "深圳市福田区福田街道益田路5055号信息枢纽大厦23层",
+      "bbdQyxxId": "1e275be0efff416aaa6f3865e4dcf7e9",
+      "black": false,
+      "companyName": "深圳市引导基金投资有限公司",
+      "degree": 2,
+      "dwtzxx": 36,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "9f855c3d9c393f30",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "徐娟"
+    },
+    {
+      "address": "浙江省湖州市南浔区南浔镇南浔大道1888号1幢3层",
+      "bbdQyxxId": "47a10b4ddfef4c3bb97499a8c6e32435",
+      "black": false,
+      "companyName": "湖州越球投资有限公司",
+      "degree": 2,
+      "dwtzxx": 6,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "长沙市天心区芙蓉中路三段142号光大发展大厦2708",
+      "bbdQyxxId": "abd7fb6fcbcf4bdb94ea1f8a1db4355c",
+      "black": false,
+      "companyName": "湖南发展集团股份有限公司",
+      "degree": 2,
+      "dwtzxx": 9,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "f5037d632dd93f96d053f91033beef9e",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "陈彦文"
+    },
+    {
+      "address": "大连西路261号1501室",
+      "bbdQyxxId": "92e484773ca74461975fad0dc704db73",
+      "black": false,
+      "companyName": "上海唐盛投资股份有限公司",
+      "degree": 2,
+      "dwtzxx": 17,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "46ea38a628f44209d45c2217b0f81af9",
+      "degree": 2,
+      "dwtzxx": 4,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "章荷云"
+    },
+    {
+      "address": "上海市嘉定区兴邦路755号2幢3层B区3003室",
+      "bbdQyxxId": "8764ec5cbe9b457f96bcec161a81903a",
+      "black": false,
+      "companyName": "上海歌斐惟朴股权投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 3,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "810d6be08e079971",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "郑前"
+    },
+    {
+      "address": "长沙市浏阳河大桥东",
+      "bbdQyxxId": "04116ef818d94cbb84cadeace7ad6179",
+      "black": false,
+      "companyName": "湖南电广传媒股份有限公司",
+      "degree": 2,
+      "dwtzxx": 46,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 4
+    },
+    {
+      "bbdQyxxId": "2a1d7b8ac9ad8a77",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "杨汇慧"
+    },
+    {
+      "address": "深圳市前海深港合作区前湾一路1号A栋201室（入驻深圳市前海商务秘书有限公司）",
+      "bbdQyxxId": "861b722a01634fc78fdb1ae6ab30d96f",
+      "black": false,
+      "companyName": "深圳协和方元投资基金管理股份有限公司",
+      "degree": 2,
+      "dwtzxx": 22,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 2
+    },
+    {
+      "bbdQyxxId": "d9612aeb5929970e",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "徐进"
+    },
+    {
+      "bbdQyxxId": "6c43155fa161ecc8175bdda36ad90ab2",
+      "degree": 2,
+      "dwtzxx": 6,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "杜志宏"
+    },
+    {
+      "bbdQyxxId": "fccf77359fde3434b5c2139070a5ba7d",
+      "degree": 2,
+      "dwtzxx": 10,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "章建兰"
+    },
+    {
+      "bbdQyxxId": "5532e6f3630e0228",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "张锦华"
+    },
+    {
+      "address": "武汉市雄楚大街268号湖北出版文化城图书批发市场215号",
+      "bbdQyxxId": "2f4ed9e6d4cd4361a86b975c68932fce",
+      "black": false,
+      "companyName": "湖北世纪英才文化发展有限公司",
+      "degree": 2,
+      "dwtzxx": 11,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "2f48720f75a56942",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "周斌"
+    },
+    {
+      "bbdQyxxId": "aa60bcf800e0fef4",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "沈军"
+    },
+    {
+      "address": "花桥镇商银路538号国际金融大厦5217室",
+      "bbdQyxxId": "de6bdefc2e4949fe8914da0581734c2d",
+      "black": false,
+      "companyName": "昆山嘉成晨丰投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "永春县五里街镇八二三中路24号1楼101-7",
+      "bbdQyxxId": "78a0600502104942be23e1252384a549",
+      "black": false,
+      "companyName": "泉州市禹道丰侨股权投资中心（有限合伙）",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "存续",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "address": "-",
+      "bbdQyxxId": "fbcaa88d5f9d834d",
+      "black": false,
+      "companyName": "四川信托有限公司",
+      "degree": 2,
+      "dwtzxx": 1,
+      "estatus": "-",
+      "human": false,
+      "labels": [
+        "Company",
+        "Entity"
+      ],
+      "riskCount": 0
+    },
+    {
+      "bbdQyxxId": "2ffc2f8b63ce0c92",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "孟军颐"
+    },
+    {
+      "bbdQyxxId": "e241f46cdbf5102bca10b05af2e216f2",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "王硕程"
+    },
+    {
+      "bbdQyxxId": "5577123c0855ab36",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "王彤"
+    },
+    {
+      "bbdQyxxId": "897d5b959541d366",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李尧贺"
+    },
+    {
+      "bbdQyxxId": "820ec7838e0a73ee",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "张锐"
+    },
+    {
+      "bbdQyxxId": "94f865ee686d9b25",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "曾铸涵"
+    },
+    {
+      "bbdQyxxId": "7f3898bbb0be83d0",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "包斯远"
+    },
+    {
+      "bbdQyxxId": "24f5cc5be7c744fe",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "何宏靖"
+    },
+    {
+      "bbdQyxxId": "889a903c9f62d58e",
+      "degree": 2,
+      "dwtzxx": 1,
+      "human": true,
+      "labels": [
+        "Person",
+        "Entity"
+      ],
+      "personName": "李倩"
+    }
+  ],
+  "keyRelationIds": [
+    "c315c3c4479173a0774e2e08e6beaf87",
+    "af8a3a619d92114c8c8a8402616c90dc",
+    "e9812361c56090ef9d9c0376fa0f8a56",
+    "0bf51e7afd574d929fda8859647673f7",
+    "9d0ac8ba661340ebb98fef6920ca1ff3"
+  ],
+  "links": [
+    {
+      "endId": "7d75cab1d58d441e8beeb71353488b8e",
+      "properties": {
+        "bbdRoleId": "ceb2b8597c3dd9aa572f7d2808baa01c",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "368ce9e7570848b7a9b04fe944c6219a",
+      "properties": {
+        "bbdRoleId": "13bc8f818b05f23bff0522b5e1e533c1",
+        "createTime": 1530845042050,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530845042050
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "988a65112423f81b5c77dcd1e0ac5a6f",
+        "createTime": 1530903823462,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823462
+      },
+      "startId": "c315c3c4479173a0774e2e08e6beaf87"
+    },
+    {
+      "endId": "c497f23b5c24414b9f977452c1dacc8a",
+      "properties": {
+        "bbdRoleId": "528830015eee343320654a2232232abb",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "13dc5e3b4b83147a80e047d6af0013aa",
+        "createTime": 1530903823975,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823975
+      },
+      "startId": "fa235147301c0b4457b60eb3a45f0d1f"
+    },
+    {
+      "endId": "d7721f359439422eb867ccf3be6b9363",
+      "properties": {
+        "bbdRoleId": "087164317e714305b54cfd604415d03f",
+        "createTime": 1530621562956,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530621562956
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "431bfc2243f14425919164ce208f71fb",
+      "properties": {
+        "bbdRoleId": "919a79cbc2c5813d717a7a178995efb6",
+        "createTime": 1530763602342,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530763602342
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "b04758317e68676e878ec7cd31d76d94",
+        "createTime": 1530903824004,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903824004
+      },
+      "startId": "9ca7ef0f2f4943d4b8d2fd1a1e757e86"
+    },
+    {
+      "endId": "ff9a8d6465594710bfb79aefcf3f0573",
+      "properties": {
+        "bbdRoleId": "b2a46e93eb595128f7f8a500ac8b8dde",
+        "createTime": 1530920144305,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530920144305
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "29be8a7bff934366b74a1bead3d1d6fd",
+      "properties": {
+        "bbdRoleId": "7cab69125b5d4e43888cc7847a69d640",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "-",
+        "updateTime": 1529545163
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "d71615dc58d849048a2755cbbdf3e041",
+      "properties": {
+        "bbdRoleId": "01001475c9b9d843538cbc98fb882970",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "35.0000%",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "7544f3211a523ba5771d8e8997aedf16",
+        "createTime": 1530903823858,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823858
+      },
+      "startId": "de9280123e5347b2181297c31c38271a"
+    },
+    {
+      "endId": "fc8c30062cbe48f5b92c1e4ff62e6889",
+      "properties": {
+        "bbdRoleId": "36160e801629a440d8f599dd226d0c6d",
+        "createTime": 1530921479839,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530921479839
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "afe2cce29272432abbfd521c9bbe0495",
+      "properties": {
+        "bbdRoleId": "20cfe44a822f72adafbb950b5177bfad",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "50.0000%",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "bc3e060bf3d94692a29bc9c6ecc363f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "3a1e3be82fcd9b6175c5364005fc96b1",
+        "createTime": 1530903823834,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823834
+      },
+      "startId": "b41e0bd535948c65c971e572e45ba484"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "8d8c87075c238e545c1d8c2ef459d669",
+        "createTime": 1530903823888,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823888
+      },
+      "startId": "d8281179259b4ee2ad1d6f02486cd0ab"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "762d0ebee5f534ac1b611668a086f61e",
+        "createTime": 1530903823622,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823622
+      },
+      "startId": "5eb8577a40084ec58584745fe872dbac"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "b3b2bdc4512c9a9bf29346d8543bb4a6",
+        "createTime": 1530903823946,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823946
+      },
+      "startId": "bbee9fd17946443c8f25df140b85f801"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "f4769b13d4b6a630016626e428a83074",
+        "createTime": 1530903823655,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823655
+      },
+      "startId": "a572ea2beee44fa2b37548b0fabc99ae"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "bcb9acdc59cf328b2066c2fcf50e4947",
+        "createTime": 1530903823689,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823689
+      },
+      "startId": "5cbcfbd0d7aa4aa79565636ca90305b5"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "78817d1803aa6ac39a8e41632d202866",
+        "createTime": 1530903824053,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903824053
+      },
+      "startId": "ba81f5e6b59f416e9f53dcf107849603"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "c07e93e6f50611deb98e71c8948bd70d",
+        "createTime": 1530903823523,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823523
+      },
+      "startId": "f764cc6b62cb47859f9f7f7d981aaae2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "6e42ec638807bea969c6b9a7af743e3c",
+        "createTime": 1530903823228,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823228
+      },
+      "startId": "7cb0744ba2dd410db7c909ee65972c59"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "a7f7686a61c631b4e0b2e7c251d96ce1",
+        "createTime": 1530903823587,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823587
+      },
+      "startId": "2b369b90d55c4579b3c345f91397b4ec"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "adb3db633d51446a99d7aa7823cfaaf6",
+        "createTime": 1530903823777,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823777
+      },
+      "startId": "92b77d1582e821f214ee97f3268fe1f2"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "aae244f5642b19e21f3436f5bdfc344a",
+        "createTime": 1530903823809,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823809
+      },
+      "startId": "9e76d33644d14847b170654eb9b7b3ff"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "04fd5558a7664f7047cc0f7df6aa4029",
+        "createTime": 1530903823347,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823347
+      },
+      "startId": "7ee5244053dc4e07abc8a0a07fda5eea"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "05eb0c9a8b6e41c872457778f563591f",
+        "createTime": 1530903823555,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823555
+      },
+      "startId": "93320b627a734c3e8a227929188f5cb7"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "daa7046c750f08bd815e59be26fefe53",
+        "createTime": 1530903823380,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823380
+      },
+      "startId": "2638d287f9bd45e583ce7c64b3db224b"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "7c427a4fbe445da29b33e896983248c8",
+        "createTime": 1530903823413,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823413
+      },
+      "startId": "8fa3a5fbc9b74a1bb83ae2b4d175061c"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "712f5ac94cd4f77f314ec55510d9a208",
+        "createTime": 1530903823259,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823259
+      },
+      "startId": "f331079a7c434d6b9c0651c048dc1d84"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "8423e4cc2e14a2ff619195c7b1dfdf8d",
+        "createTime": 1530903823721,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903823721
+      },
+      "startId": "74fbdf99dd694f4ba8d12a4e2049fdb4"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "3ee9fec2347c16f20a906fdb3def39ed",
+        "createTime": 1530903823753,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823753
+      },
+      "startId": "22de6d8784db46439b51c45dd898908c"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "81c151e39dc8c865caec1a295bb66bf7",
+        "createTime": 1530903823439,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823439
+      },
+      "startId": "41692bc2042126bca5ea52af60f8ed35"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "c534851bf30be21f59a65c47d64eede6",
+        "createTime": 1530903824023,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903824023
+      },
+      "startId": "521521662479369c576021bc3b9320be"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "74f0efe9bc987b4a6513559c8fd3304d",
+        "createTime": 1530903823489,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823489
+      },
+      "startId": "daf7e175634b971b46b1ac85d312dd00"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "85f7421b67937a1588a5080bd9999cc4",
+        "createTime": 1530903823311,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823311
+      },
+      "startId": "48c77125e7be4f73b4a6fb23f90aface"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "2b8139c5b57fe31918e96a84779d0192",
+        "createTime": 1530903823917,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530903823917
+      },
+      "startId": "6dac9f2ffb1543de963b906f7e301e17"
+    },
+    {
+      "endId": "bc3e060bf3d94692a29bc9c6ecc363f2",
+      "properties": {
+        "bbdRoleId": "9a461b380d21067af815c259a0e1196b",
+        "createTime": 1530903823279,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530903823279
+      },
+      "startId": "f6150b69276eea94666380075ca3400f"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "9f9ef79ad1f84f0a5235b7c354393e3a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "7d1b31360bcf43fb997f6447d246e13c"
+    },
+    {
+      "endId": "2b369b90d55c4579b3c345f91397b4ec",
+      "properties": {
+        "bbdRoleId": "57901611de8c5edcbd9c494c78f80e87",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "f3d15684e2c94afebf37f963be96e369"
+    },
+    {
+      "endId": "0bf51e7afd574d929fda8859647673f7",
+      "properties": {
+        "bbdRoleId": "c8cb178e00d888419cb7c48d1111341f",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "4ee76ec6c9644dcf85a93f84d96f42df",
+      "properties": {
+        "bbdRoleId": "3bb02c88926f64f27d157d7ff2e25fe4",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "72e137ec24614041844c4949065aed41",
+      "properties": {
+        "bbdRoleId": "ec105fe05b7674bd11d21a34c933ba23",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "0bf51e7afd574d929fda8859647673f7"
+    },
+    {
+      "endId": "ad736d7e9e9540068113043e290e68c5",
+      "properties": {
+        "bbdRoleId": "93b62382d5585bc76561d0c8eeffb8c9",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "f8e4ca6a608441508671ce95455a9731",
+      "properties": {
+        "bbdRoleId": "d1f6be45e4b314494b28971a97ef8e14",
+        "createTime": 1530927840905,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530927840905
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "7496ab67be584f0db910ef581b43fe79",
+      "properties": {
+        "bbdRoleId": "af07efd1d3090adad60d2f055791b9d6",
+        "createTime": 1530935128994,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530935128994
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "546467b0ec8d495f87b5bb19baedd3fb",
+      "properties": {
+        "bbdRoleId": "908de0c5b03d24aa9b785952789b7586",
+        "createTime": 1530958887713,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530958887713
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "902ac77e105749389203ebd3094a8c7c",
+      "properties": {
+        "bbdRoleId": "165820658ebcfa857fed731b897a3b76",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "8c58d87ff15d4506b41507efe8e47d58",
+      "properties": {
+        "bbdRoleId": "aaa79de6871dc144c51064f207ae0f24",
+        "createTime": 1530852483680,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1530852483680
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "b115ddd5bcc243db88628e75abd8c336",
+      "properties": {
+        "bbdRoleId": "40249623d58940de54734fea807b9d04",
+        "createTime": 1530913186661,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530913186661
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "c27a5b3dba424c39b7638a16853adda5",
+      "properties": {
+        "bbdRoleId": "3587cef4b755379efb1353d1026abfda",
+        "createTime": 1530960307113,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530960307113
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "ddd675b271a9464285ac827c65bf3a7d",
+      "properties": {
+        "bbdRoleId": "e760e1c804d96412583fb836fbc08f99",
+        "createTime": 1530830604249,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530830604249
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "d8281179259b4ee2ad1d6f02486cd0ab",
+      "properties": {
+        "bbdRoleId": "25b5cd5b93917c4b5c1c7157fc3d2957",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "fbee0a814a3e022358bc3a568c6ddc00"
+    },
+    {
+      "endId": "d8281179259b4ee2ad1d6f02486cd0ab",
+      "properties": {
+        "bbdRoleId": "096489d4362aac72fbae9c0494e97cb9",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1529545163
+      },
+      "startId": "805d2345076149338781f47d8d5e60b6"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "f304156da47e829edf7592fb3b4427ac",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "7d6c838f57c2471a926147141b170ad4"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "efc14c46ca77107c9ed244d9f2ed130b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "64e40989c0d6a33ba33f5026b9bc67ba"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "c5188a9dd6a12d005c2dd4b025447a7a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "9d3b93f2573a56f083c959631f7969c4"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "5dbb47d75a22d5e1ce2c6b8ad84b9b07",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "4e2ea77eef4ab814bb7436580185e528"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "90b8b261aa5dc6c91a04c081abdb3c1c",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "ad7bb5d4059de3f740b0429ff74cadbb"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "ebab44a2a31b5cc62b9a66956d8d81a7",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "86d9d29244c94ff7ba9385d5dd6efe3b"
+    },
+    {
+      "endId": "7d6c838f57c2471a926147141b170ad4",
+      "properties": {
+        "bbdRoleId": "a886aec57c2952f3f598b8da8305d961",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "86d9d29244c94ff7ba9385d5dd6efe3b"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "9618f2bba7703cc94ee028a89a5e1e38",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "41d599410d528af4b4f60db173cc62f1"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "1d0194459e6d865e52b17d6b1b25ebf5",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "373b7eef3c757946f446a6c62b9ff865"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "01f3b1656731232d8f59461db2ca4d60",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "8a4bbb8270f3052499b52b9d34f0637d"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "f52e82d6c5801731ae5afec163d23efc",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3b49d1e1a5c76f8a27c79fd324acb03d"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "cd4e3cce9da19a66ee4eec4b4e7db438",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "2a50414f25f5b4a0fd6d3e2913986aa3"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "7cb28849fdb3d7e814cf470693c63d54",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3ec537c4a5a5650be088ef4d750b7953"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "59eeb20ee6dc610d2a55e3dd886a2d24",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "b4fde1d61e16b532026235c6b3b2826a"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "80fbcb268088a3966ff52f2f44a7ffd9",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "13690bb782238b8d0ed1164ef7152d10"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "e5e6b188b5b52cf55259c2edfab855d7",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "afb237957c5d22aed3bd17e3939b7a6c"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "7904ed95fb1a7073bfb9d45cd4e54451",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "465431418db0fa410ccddbae86b4c36d"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "7949952b5aa1797e3db5fdfa5a2a6db6",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3d7a32e118d09a1aa86b0b7728ad78cb"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "c6b7dbb225c0825cf3d1f708a939554d",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "82685cb4183b59ec23a0e4ec6246cdf2"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "9ac59e654742dd670e3cefabbe6865d0",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "05565136afd7bd2c0e3ed0f96a3e7c1c"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "18db4e12abbe50355e0329bdb7cd6c76",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "1560a5a9d229cb4cfe1e7e4b271913fc"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "6d9d2b5c0475608b41d68593ff8dc95d",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "bffece83cfed1b818f182b78ecd435c1"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "5175f548b48181b9a92490a36ec611ad",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "45f57e03ae01197b8c7ade91b736b524"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "ddab46c18d8404c793363ccf382e8e01",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "52474f766983e6fc11e09b1a1abc6bc1"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "ec3f4f11eac211aef57862b2e364f7e8",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "70f7b25f53e6bd7abe5f59cf8a57d33a"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "d90711774988e51d3584f0f323d3dbe7",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "2637efc418450f387a4af5fb7bdae4a2"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "8a24c1d37bed4d5749bf0bedccab260a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "20d437ffadb4217697b69fac389f16f5"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "4101b632ba05078bb02e4ec128188dfa",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "f6c2c96bcf3aea508aa06209de8297c1"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "971fe36b9c91571731c7a6fdd9c12079",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "53b26db366df830893ea84fd3cc012d4"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "689209d4d4ea3474eaa04e2e254745af",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "b151cd732861989667b5e64a16c8b90e"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "a9adaa79f42f0f9a39534cbbbd1ead0a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "5a1edc273fa5c85670cd09625c8349ce"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "3b46bc9e3cd127003e851753afc5d10b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3ef01c7aa954384ee8b5c82928d225c9"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "f899f3274930ed6b4b51f8f5e199df2b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3f6eee16e4c6f0ee572707e4da23273d"
+    },
+    {
+      "endId": "5eb8577a40084ec58584745fe872dbac",
+      "properties": {
+        "bbdRoleId": "f1d9ba33be2b146a75b931aa13f63b5e",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "50de80599a7896b83006022dcdbd4a6b"
+    },
+    {
+      "endId": "bbee9fd17946443c8f25df140b85f801",
+      "properties": {
+        "bbdRoleId": "dea44bb5da49d91d571f094afc6c8b1c",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "5cbfde9c48d9ffa6"
+    },
+    {
+      "endId": "a572ea2beee44fa2b37548b0fabc99ae",
+      "properties": {
+        "bbdRoleId": "1822b58c4d42824a668c4bf2322a18b1",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "f8c56712b968edc7092e026b216fe9f7"
+    },
+    {
+      "endId": "a572ea2beee44fa2b37548b0fabc99ae",
+      "properties": {
+        "bbdRoleId": "12da9e66e5652972fb12068eeade834d",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "9e54807c49b7a7911f562862f70b686b"
+    },
+    {
+      "endId": "a572ea2beee44fa2b37548b0fabc99ae",
+      "properties": {
+        "bbdRoleId": "51c1d0efb675edfb451a12f81cd40e9e",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "4e13c4357758424ca3372e637d9e28ae"
+    },
+    {
+      "endId": "5cbcfbd0d7aa4aa79565636ca90305b5",
+      "properties": {
+        "bbdRoleId": "2fa741b2e68ec738d0d9d497a205cec8",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "523f1615efe94425ab1945a2aeabbfb9"
+    },
+    {
+      "endId": "5cbcfbd0d7aa4aa79565636ca90305b5",
+      "properties": {
+        "bbdRoleId": "de1d79f2ce805e4a92e1eb5d0d0e87a0",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "3699aafed017a24ae0d7aa10e6efbd60"
+    },
+    {
+      "endId": "5cbcfbd0d7aa4aa79565636ca90305b5",
+      "properties": {
+        "bbdRoleId": "bf2abb2f07eece04f258d0f55a615391",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "f408108583c944f1886edfdaa097a8db"
+    },
+    {
+      "endId": "5cbcfbd0d7aa4aa79565636ca90305b5",
+      "properties": {
+        "bbdRoleId": "95a61a89f9a478008e45c9319b5fbc93",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "964ade622e0f479095c69bab7b01b370"
+    },
+    {
+      "endId": "ba81f5e6b59f416e9f53dcf107849603",
+      "properties": {
+        "bbdRoleId": "957157d4a11acc845c2bcf60265e076b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "fae38c46a1d940de8c4e06c2e14fd8a9"
+    },
+    {
+      "endId": "ba81f5e6b59f416e9f53dcf107849603",
+      "properties": {
+        "bbdRoleId": "8e49d0801471c3bb213931fb7ccf2a2b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "d4e1670421b84846afefe62044ce8f87"
+    },
+    {
+      "endId": "fae38c46a1d940de8c4e06c2e14fd8a9",
+      "properties": {
+        "bbdRoleId": "9842efc7de94fb7f90dac3685d2a35ea",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "d4e1670421b84846afefe62044ce8f87"
+    },
+    {
+      "endId": "ba81f5e6b59f416e9f53dcf107849603",
+      "properties": {
+        "bbdRoleId": "50cbfa90f1a58830b8ad8d7e9ec5241a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "ee8948573ded40d2af2df4dcf4498291"
+    },
+    {
+      "endId": "f764cc6b62cb47859f9f7f7d981aaae2",
+      "properties": {
+        "bbdRoleId": "d2e04679e46dcf1e3b189405de16507b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "4b108f1a90f741b881d20fec81ac8c38"
+    },
+    {
+      "endId": "f764cc6b62cb47859f9f7f7d981aaae2",
+      "properties": {
+        "bbdRoleId": "6e80cf6a70392ca5db117ab8bdd0d7e0",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "ba6b762caa226adb"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "7fbc2ae7fcee982fd307c38226a147d6",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "e9341d7c65a96a5b364c780cb0a46597"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "59150d37c5acefe73c4a7e67c5d0172a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "b07bd56d4434e857284614e8262b5e12"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "dfc941de46f0f0cff00fa4f98a8cacd7",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "2a735805244ec0cda88365899bf1f31a"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "6b1ac784ee2776acbba8524d878904fa",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "d401892ae422427a86aa767dc91208a7"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "e74cf22bc94728047124589683829fb0",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "c871e41259164ecfa2074a765b1cbc45"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "0fe81e260a2dea1db3ffbbc411c585c0",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "7136988aaa67d76639d242063ace8d69"
+    },
+    {
+      "endId": "7cb0744ba2dd410db7c909ee65972c59",
+      "properties": {
+        "bbdRoleId": "e362c492e85a331887df145b7e11b4ea",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "9e8e1f0ea452886aeabe13ad4d01c723"
+    },
+    {
+      "endId": "2b369b90d55c4579b3c345f91397b4ec",
+      "properties": {
+        "bbdRoleId": "a7f6b019f3b8566b45e29f75e8a1383a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1529545163
+      },
+      "startId": "2e3662d7c23f48998d3daf111c30eeb5"
+    },
+    {
+      "endId": "2b369b90d55c4579b3c345f91397b4ec",
+      "properties": {
+        "bbdRoleId": "c96ba7c531200ac61d3a7f253f8f8dca",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "c440bbb612824b7da2b458a4490df739"
+    },
+    {
+      "endId": "9e76d33644d14847b170654eb9b7b3ff",
+      "properties": {
+        "bbdRoleId": "added34b55dbaba2887065e329b3be88",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "ce82a1ee402e47f792cf5775a7842ef0"
+    },
+    {
+      "endId": "9e76d33644d14847b170654eb9b7b3ff",
+      "properties": {
+        "bbdRoleId": "52ff209a84e9c6d3e378116b551fb3e9",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "173b0ac3a6d5de87"
+    },
+    {
+      "endId": "7ee5244053dc4e07abc8a0a07fda5eea",
+      "properties": {
+        "bbdRoleId": "0fb81fc9ebb6c8ae588bc6b366bdef53",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "ca3306f561658c6a7e5f69d8c5a72717"
+    },
+    {
+      "endId": "7ee5244053dc4e07abc8a0a07fda5eea",
+      "properties": {
+        "bbdRoleId": "2f99f44b7d237d6915cef724b613fc57",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "b6a272cf8bb092c2d32bd0046a71aa1f"
+    },
+    {
+      "endId": "7ee5244053dc4e07abc8a0a07fda5eea",
+      "properties": {
+        "bbdRoleId": "389ba3adfd4da79f7b022f7f13ad81f7",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "2845dafadbc47cef82be8f0f010d18a4"
+    },
+    {
+      "endId": "7ee5244053dc4e07abc8a0a07fda5eea",
+      "properties": {
+        "bbdRoleId": "615ed12ea1e7db6372f1d7dfd169a2f2",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "1551e4fc74e2b4df718127f5df12b66a"
+    },
+    {
+      "endId": "9ca7ef0f2f4943d4b8d2fd1a1e757e86",
+      "properties": {
+        "bbdRoleId": "12ba0a7b02756c1f31a8e4bda38d9334",
+        "createTime": 1530765158921,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530765158921
+      },
+      "startId": "9d219b8908bc8661a01ce353368eb7c2"
+    },
+    {
+      "endId": "93320b627a734c3e8a227929188f5cb7",
+      "properties": {
+        "bbdRoleId": "cfd9903b53437da81b6a08f13ef37772",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "8f221e2ebb6c4b469aa62dce2301d21b"
+    },
+    {
+      "endId": "93320b627a734c3e8a227929188f5cb7",
+      "properties": {
+        "bbdRoleId": "df01f523d6b4cea8b5a2775f517c0c90",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "ff1bb46ec86049179a5ea1f8c99b6d52"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "b4f76d1b39dcc212e6703b000d253c61",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "4f17766d4ed5b4ee4bb75b2b6b90d7dc"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "dea69cad9aa3ffe09f1016f454e5ae85",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "a3197720a93a457fe038e63cd70bc614"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "f6de2c10f37dbafec6be6fadbb016f19",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "17df39d218f05babab4acb1d82a366ed"
+    },
+    {
+      "endId": "2638d287f9bd45e583ce7c64b3db224b",
+      "properties": {
+        "bbdRoleId": "2a849c755ce2a3447be250b29bb864cc",
+        "createTime": 1530786670674,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "61.5400%",
+        "relationType": null,
+        "roleName": "",
+        "updateTime": 1530786670674
+      },
+      "startId": "b29c6cc546dc4fe088df4a8c0ca6af91"
+    },
+    {
+      "endId": "2638d287f9bd45e583ce7c64b3db224b",
+      "properties": {
+        "bbdRoleId": "3295de9d46486db93e0baf613278aad4",
+        "createTime": 1530786670607,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "19.6200%",
+        "relationType": null,
+        "roleName": "",
+        "updateTime": 1530786670607
+      },
+      "startId": "5e6ab145a30445b4b2c609515d3096b0"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "34527437e2743ae0223bbc90476d8acf",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "3e402d3721244de48f74ecb5f85aa8fc"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "c82a018afd2a177965aa5fbc32f3e439",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "f8c56bc32b624fcb94b47c61a634ab82"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "d30a562010bc2e76d68129238176347f",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "bd3776132c9845aa9066c7ca842f42e4"
+    },
+    {
+      "endId": "f331079a7c434d6b9c0651c048dc1d84",
+      "properties": {
+        "bbdRoleId": "7c72fa6373c8833b6324a0a0a2c545dd",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "cfdf00c75acc4bdebdf3088b6315b1c0"
+    },
+    {
+      "endId": "bd3776132c9845aa9066c7ca842f42e4",
+      "properties": {
+        "bbdRoleId": "c54fe79db0ae26ac00c0c13b9c38a5a9",
+        "createTime": 1530792253069,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530792253069
+      },
+      "startId": "cfdf00c75acc4bdebdf3088b6315b1c0"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "c707597d8913878a6158ddd9c388a0e8",
+        "createTime": 1530761662643,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662643
+      },
+      "startId": "e3c1401eb4bf44f3a9d02415639bb135"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "58be58aaec59aecd53400e0085608547",
+        "createTime": 1530761662793,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662793
+      },
+      "startId": "a21e72081f4e414f7351ca170b3d6742"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "99bb8d1701f9668006ef95965a70f068",
+        "createTime": 1530761662256,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662256
+      },
+      "startId": "b6f5ac7a86f5888ed50cbb139d828a3c"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "d8c0efe728718975279aeef7dc26761d",
+        "createTime": 1530761662341,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662341
+      },
+      "startId": "d166f32252b94241908652bbe844e21f"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "5c3c8a26ab3943aaab96963e62e56a80",
+        "createTime": 1530761662477,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662477
+      },
+      "startId": "031a6987fa70e1059b1bf70d55d5441b"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "d8d50f83b63d5c9c9b486bab5472e21b",
+        "createTime": 1530761662559,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662559
+      },
+      "startId": "12113bb19b194585814f30bf3dbb25b2"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "aa265e644bb4e842dce55c0c7b79d246",
+        "createTime": 1530761662613,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662613
+      },
+      "startId": "1e275be0efff416aaa6f3865e4dcf7e9"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "f72299c7d65ea81f9b460b9ccc18e9be",
+        "createTime": 1530761662310,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662310
+      },
+      "startId": "9f855c3d9c393f30"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "b056817b8bf93465290721a59bad4b3a",
+        "createTime": 1530761662530,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662530
+      },
+      "startId": "47a10b4ddfef4c3bb97499a8c6e32435"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "d498b2def4d240dac9e08efa080da605",
+        "createTime": 1530761662403,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662403
+      },
+      "startId": "abd7fb6fcbcf4bdb94ea1f8a1db4355c"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "5b151891df7aea4bc46f6c2151ffd6c6",
+        "createTime": 1530761662580,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662580
+      },
+      "startId": "f5037d632dd93f96d053f91033beef9e"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "170e36f2e5b90ccef7d0a5833919881d",
+        "createTime": 1530761662287,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662287
+      },
+      "startId": "92e484773ca74461975fad0dc704db73"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "ca7d3ceef63d384b8daeebb91c3675c9",
+        "createTime": 1530761662665,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662665
+      },
+      "startId": "46ea38a628f44209d45c2217b0f81af9"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "0fbe53c1bf3927ecc597c97aced95f0d",
+        "createTime": 1530761662372,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662372
+      },
+      "startId": "8764ec5cbe9b457f96bcec161a81903a"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "7de0100f716a122b0a4a59fedb011065",
+        "createTime": 1530761662846,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662846
+      },
+      "startId": "810d6be08e079971"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "1d5e0836b9f40f10669d4a3a03e6e3d5",
+        "createTime": 1530761662771,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662771
+      },
+      "startId": "04116ef818d94cbb84cadeace7ad6179"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "0e4c5e7a11e853825dd359efc87b08b9",
+        "createTime": 1530761662687,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662687
+      },
+      "startId": "2a1d7b8ac9ad8a77"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "5100396e2c310e464d449a3c5c829a0b",
+        "createTime": 1530761662434,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662434
+      },
+      "startId": "861b722a01634fc78fdb1ae6ab30d96f"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "8a4fea8c99a952cea5c95b5c3fd3eae5",
+        "createTime": 1530761662710,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662710
+      },
+      "startId": "d9612aeb5929970e"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "9288e9f2c3394eeb372c20cbcc5aa8f0",
+        "createTime": 1530761662202,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662202
+      },
+      "startId": "6c43155fa161ecc8175bdda36ad90ab2"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "7b2e76149e9d54b765c7d5c375076f5a",
+        "createTime": 1530761662868,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662868
+      },
+      "startId": "fccf77359fde3434b5c2139070a5ba7d"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "4fb9963ed79f6e719caa8dbd9c4d3d94",
+        "createTime": 1530761662456,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662456
+      },
+      "startId": "5532e6f3630e0228"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "cc983fe4fc82e63a9c4e33f562e6700b",
+        "createTime": 1530761662233,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662233
+      },
+      "startId": "2f4ed9e6d4cd4361a86b975c68932fce"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "308d2fb1fa8868d678386ae91756c09b",
+        "createTime": 1530761662499,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662499
+      },
+      "startId": "2f48720f75a56942"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "b39567632ba8dfe52a81a6a9c3b7dad3",
+        "createTime": 1530761662170,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1530761662170
+      },
+      "startId": "aa60bcf800e0fef4"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "6f125503515e63a15147cc0cea132d61",
+        "createTime": 1530761662741,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662741
+      },
+      "startId": "de6bdefc2e4949fe8914da0581734c2d"
+    },
+    {
+      "endId": "74fbdf99dd694f4ba8d12a4e2049fdb4",
+      "properties": {
+        "bbdRoleId": "e32dfebb2a41b8c5d86cd4f9819dff3b",
+        "createTime": 1530761662824,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "合伙企业",
+        "updateTime": 1530761662824
+      },
+      "startId": "78a0600502104942be23e1252384a549"
+    },
+    {
+      "endId": "8fa3a5fbc9b74a1bb83ae2b4d175061c",
+      "properties": {
+        "bbdRoleId": "3b5ccf8648725c87533455c7b15dfe1a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "fbcaa88d5f9d834d"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "9f7760ed693a51846a4c7856dd56d49f",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "2ffc2f8b63ce0c92"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "9d144285a426ea59bd848b4054a26ef2",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "e241f46cdbf5102bca10b05af2e216f2"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "e7f4c46f5a0fb030047f52524772287a",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "5577123c0855ab36"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "82c7b651e422a88b11d6b5696fcecaee",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "897d5b959541d366"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "3f03d93343bc7850f9486aa9ad15947e",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "820ec7838e0a73ee"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "299ec00dbbad6dcf574a753c42b43d20",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "94f865ee686d9b25"
+    },
+    {
+      "endId": "22de6d8784db46439b51c45dd898908c",
+      "properties": {
+        "bbdRoleId": "50a9e9b0ee1ffe1a04334afa38c95c3c",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "7f3898bbb0be83d0"
+    },
+    {
+      "endId": "6dac9f2ffb1543de963b906f7e301e17",
+      "properties": {
+        "bbdRoleId": "dcadfa3f4587f5496c55b14f5480aee2",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人",
+        "updateTime": 1529545163
+      },
+      "startId": "24f5cc5be7c744fe"
+    },
+    {
+      "endId": "6dac9f2ffb1543de963b906f7e301e17",
+      "properties": {
+        "bbdRoleId": "0061e8ce2caf6ef0639c46d70a9721a4",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "自然人",
+        "updateTime": 1529545163
+      },
+      "startId": "889a903c9f62d58e"
+    },
+    {
+      "endId": "a23723f936644dceb321e97440553d5b",
+      "properties": {
+        "bbdRoleId": "b67abad3d0f6d52076abcf24672dfc83",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "fdb300156c074257b215a1eeb1b0c582",
+      "properties": {
+        "bbdRoleId": "75d74c7cd6cff07cc699a491824dcd68",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "f62d35a293ea4c45babeb96918d730d6",
+      "properties": {
+        "bbdRoleId": "c4f23a2431902b3c873315bcf3b1077d",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "15.5000%",
+        "relationType": null,
+        "roleName": "-",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "4711d8dc486e4daf8909e83dd70cee11",
+      "properties": {
+        "bbdRoleId": "0a040129e0babe2ef9f2cafce6c82d29",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "11.0000%",
+        "relationType": null,
+        "roleName": "-",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "42656ec24cec41f59ad92f84a8a003b9",
+      "properties": {
+        "bbdRoleId": "47392b58e410bfdf97daa0e97b5bbda1",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "90.0000%",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "42656ec24cec41f59ad92f84a8a003b9",
+      "properties": {
+        "bbdRoleId": "d87a92efc093f55c8522ab88c6d6098e",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "10.0000%",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "fc8c30062cbe48f5b92c1e4ff62e6889"
+    },
+    {
+      "endId": "0069a5e51d5c4a1084e2cc8833fadb3e",
+      "properties": {
+        "bbdRoleId": "d98f8eaf8b972a8e20cf7b6bf849afdc",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "法人股东",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "5706066a952f445dbf0853a85c9e7125",
+      "properties": {
+        "bbdRoleId": "915ee2cdfefe5b44db860c4273e7499b",
+        "createTime": 1529545163,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "-",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1529545163
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "d3c839da64f14bb883286b89a0f21a57",
+      "properties": {
+        "bbdRoleId": "1e762e93ef6b7da0b3d7684b1ace29d0",
+        "createTime": 1530903033256,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530903033256
+      },
+      "startId": "431bfc2243f14425919164ce208f71fb"
+    },
+    {
+      "endId": "d2cf7f5a2eef470384a9e4ff0b8a55ce",
+      "properties": {
+        "bbdRoleId": "b911bab3d1569b2846b375d4ca4d2b9d",
+        "createTime": 1530626315616,
+        "labels": [
+          "Invest",
+          "Role",
+          "Entity"
+        ],
+        "ratio": "",
+        "relationType": null,
+        "roleName": "企业法人",
+        "updateTime": 1530626315616
+      },
+      "startId": "fc8c30062cbe48f5b92c1e4ff62e6889"
+    }
+  ]
+}

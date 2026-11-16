@@ -1,0 +1,21 @@
+.c-cross-region {
+  padding: 20px;
+  min-height: 700px;
+  position: relative;
+  .switch-btn {
+    margin: 37px 0;
+    span {
+      .sbuIcon {
+        position: absolute;
+        right: -10px;
+        top: -10px;
+        z-index: 10;
+      }
+      color: #000;
+      &:hover, &.active {
+        color: #fff;
+      }
+    }
+
+  }
+}

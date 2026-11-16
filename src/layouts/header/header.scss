@@ -1,0 +1,148 @@
+.main {
+  > .header {
+    width: 100%;
+    height: 60px;
+    background: #014282;
+    padding: 0 35px;
+    color: #fff;
+    font-size: 24px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .header-left {
+    height: 100%;
+
+    .mt-select-input {
+      border: 0;
+      padding: 7px 16px;
+      font-size: 16px;
+      color: #626262;
+      float: left;
+    }
+
+    .logo-box {
+      background: url(../../images/logo_header.png) no-repeat;
+      height: 30px;
+      width: 40px;
+      margin-top: 16px;
+      cursor: pointer;
+    }
+
+    .title {
+      font-size: 20px;
+      padding-left: 6px;
+      font-weight: 500;
+      height: 100%;
+      line-height: 60px;
+      color: #fff;
+    }
+
+    .search-box {
+      width: 518px;
+      height: 35px;
+      margin-left: 10px;
+      position: relative;
+      margin-top: 13px;
+      border-radius: 18px;
+      background: #fff;
+
+      .search-input {
+        width: 380px;
+        height: 100%;
+        border: 0;
+        text-indent: 15px;
+        color: #626262;
+        font-size: 16px;
+        float: left;
+      }
+
+      .icon-sousuo {
+        position: absolute;
+        right: 10px;
+        color: #626262;
+        font-size: 18px;
+        top: 8px;
+        cursor: pointer;
+      }
+
+    }
+    .industry-select {
+      position: relative;
+      margin-left: 16px;
+      margin-top: 13px;
+      .mt-placeholder {
+        color: #fff !important;
+      }
+      .iconfont {
+        right: 16px !important;
+      }
+    }
+
+    .search-box-selected {
+      border-bottom-left-radius: 0;
+    }
+
+  }
+
+  .header-center {
+    width: 800px;
+  }
+
+  .header-right {
+    height: 100%;
+    line-height: 60px;
+    font-size: 16px;
+
+    a {
+      color: #fff;
+    }
+
+    .iconfont {
+      font-size: 22px;
+
+      &.active {
+        cursor: pointer;
+        margin-right: 20px;
+      }
+
+    }
+
+    .user {
+      padding-right: 10px;
+    }
+
+    .icon-tuichu {
+      color: #027dc1;
+    }
+
+    b {
+      position: absolute;
+      right: 0;
+      top: -10px;
+    }
+
+    .icon-user {
+      padding-right: 5px;
+    }
+
+    .message {
+      margin-right: 20px;
+      position: relative;
+      display: inline-block;
+      // width: 36px;
+    }
+
+  }
+
+}
+
+.mt-div .mt-select {
+  box-shadow: none;
+  max-height: 300px;
+}
+
+.mt-div .mt-select .mt-select-option {
+  padding: 7px 16px;
+  font-size: 16px;
+}

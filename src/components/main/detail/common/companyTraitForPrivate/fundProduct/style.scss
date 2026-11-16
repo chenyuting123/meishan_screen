@@ -1,0 +1,130 @@
+.fundProductTableDiv{
+    .selectBtnDiv{
+        width: 100%;
+        height: 50px;
+        background: #e5ebf1;
+        display: flex;
+        justify-content: flex-start;
+        span{
+            display: inline-block;
+            width: 120px;
+            height: 50px;
+            line-height: 50px;
+            color: #333;
+            font-size: 18px;
+            text-align: center;
+            cursor: pointer;
+            &.active{
+                font-weight: bold;
+                color:#004584;
+            }
+        }
+    }
+    .tableContainerPanelDiv{
+        background: #fff;
+        .fundProductTable{
+            width: 100%;
+            tbody{
+                width: 100%;
+                tr{
+                    font: 14px "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+                    color: #333;
+                    td{
+                        height: 37px;
+                        text-align: left;
+                        line-height: 37px;
+                        border: 1px solid rgba(219,223,229,1);
+                        padding-left: 70px;
+                        background: #fff;
+                        &:first-child{
+                            width: 25%;
+                            text-align: center;
+                            height:60px;
+                            background:rgba(239,242,247,1);
+                            font-weight: bold;
+                            padding-left: 0px !important;
+                        }
+                        &:last-child{
+                            width: 78%;
+                            text-align: left;
+                            padding-left: 70px;
+                            background: #fff;
+                        }
+                        &.tdTitle{
+                            width: 100%;
+                            text-align: left;
+                            font-weight: bold !important;
+                            background: #fff!important;
+                            font-family: SourceHanSansCN-Bold;
+                            font-size: 16px;
+                            color: #333;
+                            border: none;
+                            height: 56px;
+                            line-height: 56px;
+                            padding-left: 0px !important;
+                            .blueBlock{
+                                display: inline-block;
+                                width: 4px;
+                                height: 20px;
+                                background:rgba(58,125,215,1);
+                                margin-right: 6px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .fundManageTableDiv{
+            .fundManageTable, .memberInfoTable{
+                width: 100%;
+                tbody{
+                    width: 100%;
+                    tr{
+                        font: 14px "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+                        color: #333;
+                        td{
+                            height: 37px;
+                            text-align: left;
+                            line-height: 37px;
+                            border: 1px solid rgba(219,223,229,1);
+                            padding-left: 70px;
+                            background: #fff;
+                            &:nth-child(1), &:nth-child(3){
+                                width: 25%;
+                                text-align: center;
+                                height:60px;
+                                background:rgba(239,242,247,1);
+                                font-weight: bold;
+                                padding-left: 0px !important;
+                            }
+                            &.tdTitle{
+                                width: 100%;
+                                text-align: left;
+                                font-weight: bold !important;
+                                background: #fff!important;
+                                font-family: SourceHanSansCN-Bold;
+                                font-size: 16px;
+                                color: #333;
+                                border: none;
+                                height: 56px;
+                                line-height: 56px;
+                                padding-left: 0px !important;
+                                .blueBlock{
+                                    display: inline-block;
+                                    width: 4px;
+                                    height: 20px;
+                                    background:rgba(58,125,215,1);
+                                    margin-right: 6px;
+                                }
+                            }
+                        }
+                    }
+                }
+                &.memberInfoTable{
+                    margin-top: 30px;
+                }
+            }
+            
+        }
+    }
+}

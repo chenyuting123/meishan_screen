@@ -1,0 +1,172 @@
+@import "../../../styles/mixin";
+.AacroAnalysis-info {
+  width: 100%;
+  min-width: 369px;
+  height: 363px;
+  border: 2px solid rgba(2, 147, 220, .4);
+  background-color: rgba(8, 40, 67, .4);
+  padding-top: 18px;
+  .AacroAnalysis-top {
+    height: 210px;
+    width: 100%;
+    .titles {
+      color: #fff;
+      font-size: 18px;
+      font-weight: bold;
+      float: left;
+      width: 21%;
+      min-width: 82px;
+      height: 100%;
+      text-align: left;
+      padding-left: 10px;
+    }
+    .AacroAnalysis-middle {
+      float: left;
+      width: 54%;
+      height: 210px;
+      text-align: center;
+      line-height: 210px;
+      img {
+        vertical-align: middle;
+        width: 185px;
+        height: 185px;
+      }
+      p {
+        line-height: 1;
+      }
+      .scoreInfo {
+        position: relative;
+        bottom: 60%;
+        font-size: 40px;
+        color: rgba(255, 255, 255, 1);
+      }
+      .typeInfo {
+        position: relative;
+        bottom: 55%;
+        font-size: 14px;
+        color: rgba(255, 255, 255, 1);
+        font-weight: bold;
+      }
+    }
+    .AacroAnalysis-right {
+      float: right;
+      width: 22%;
+      min-width: 83px;
+      height: 100%;
+      color: #fff;
+      .etTitle {
+        font-size: 14px;
+      }
+      .etDate {
+        font-size: 14px;
+        font-weight: bold;
+      }
+    }
+    .clearFloat {
+      clear: both;
+    }
+
+  }
+  .AacroAnalysis-bottom {
+    height: 133px;
+    width: 100%;
+    min-width: 369px;
+    padding-bottom: 15px;
+    img {
+      vertical-align: middle;
+      width: 297px;
+      height: 116px;
+    }
+    .AacroAnalysis-content {
+      position: relative;
+      bottom: 91%;
+      height: 100%;
+      width: 297px;
+      margin: 0 auto;
+      padding-left: 30px;
+      p {
+        width: 260px;
+        text-align: left;
+        .titleStyle {
+          display: inline-block;
+          width: 122px;
+          line-height: 34px;
+          font-size: 16px;
+          color: rgba(206, 206, 206, 1);
+        }
+        span.eTitle{
+          font-size: 14px;
+          color: rgba(199, 200, 200, 1);
+          line-height: 14px;
+          width: 120px;
+          display: inline-block;
+          overflow: hidden;
+          white-space:nowrap;
+          text-overflow:ellipsis;
+          i {
+            font-size: 20px;
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+// 导航选择
+.switch-btn {
+  height: 32px;
+  span {
+    position: relative;
+    cursor: pointer;
+    line-height: 32px;
+    display: inline-block;
+    padding: 0 10px;
+    color: #C6C8CB;
+    font-size: 14px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    @include transitionAnimate(all);
+    border-radius: 14px;
+    &.active, &:hover {
+      color: #fff;
+      background-color: #1C4A7B;
+      border: 1px solid #0293DC;
+    }
+    .sbuIcon{
+      background-color: #f55c6b;
+      text-align: center;
+      border-radius: 20px;
+      top: 5px;
+      right: 30px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 700;
+      padding: 1px 5px;
+      position: relative;
+      top: -10px;
+      left: 6px;
+    }
+  }
+}
+
+.checkbox {
+  font-size: 14px;
+  color: #B7BFC9;
+  cursor: pointer;
+  display: inline-block;
+  &:before {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border: 1px solid #ccc;
+    margin-right: 8px;
+    border-radius: 2px;
+  }
+  &.active:before {
+    border-color: #73A5FC;
+    background: url(../../../images/selectBox.png) center no-repeat;
+    background-size: 100%;
+  }
+}

@@ -1,0 +1,78 @@
+.black-detail {
+  width: 100%;
+
+  .black-msg {
+    width: 100%;
+    margin: 20px 0;
+    min-height: 492px;
+
+    .scanning {
+      width: 35%;
+      float: left;
+      margin: 0 1% 0 0 !important;
+    }
+
+  }
+
+  .black-tips {
+    width: 64%;
+    float: left;
+    height: 542px;
+    position: relative;
+    background: url('../../../../images/problembg.png') no-repeat;
+    background-size: 100% 100%;
+
+    .black-content {
+      width: 660px;
+      height: 100%;
+      display: table;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .black-content-v {
+      display: table-cell;
+      vertical-align: middle;
+    }
+
+    .item-name {
+      padding: 10px 0;
+      width: 200px;
+      position: relative;
+      background: #d6f2ff;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+
+    .arrow {
+      position: absolute;
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 6px solid transparent;
+      border-right: 6px solid transparent;
+      border-top: 12px solid #d6f2ff;
+      top: 39px;
+      left: 50%;
+      margin-left: -6px;
+    }
+
+    .item-answer {
+      color: #f76d43;
+      font-weight: 600;
+      font-size: 18px;
+    }
+
+    .black-png {
+      background: url('../../../../images/blackListWarning.png');
+      display: inline-block;
+      position: absolute;
+      width: 225px;
+      height: 157px;
+      right: 16px;
+      top: 39px;
+    }
+
+  }
+
+}

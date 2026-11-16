@@ -1,0 +1,19 @@
+.attention-list {
+  .mt-select-input {
+    .mt-placeholder {
+      color: #000d35;
+    }
+  }
+  .hover {
+    cursor: pointer;
+  }
+  .company-hover:hover {
+    cursor: pointer;
+    color: #0e90d2;
+  }
+  .table-theme {
+    .mt-select-input {
+      width: 100px;
+    }
+  }
+}

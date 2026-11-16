@@ -1,0 +1,18 @@
+.c-common-pagination {
+  right: 50px;
+  bottom: 50px;
+  position: absolute;
+  button {
+    max-width: 60px;
+  }
+  ul, button, .total-page {
+    float: left;
+    margin-left: 10px;
+  }
+  .total-page {
+    margin: 0 10px;
+    span {
+      margin-right: 10px;
+    }
+  }
+}

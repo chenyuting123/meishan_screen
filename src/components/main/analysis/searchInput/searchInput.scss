@@ -1,0 +1,31 @@
+$copH: 60px !important;
+.c-search-input {
+  .ant-select-selection {
+    width: 100px;
+    height: $copH;
+    text-indent: 10px;
+    .ant-select-selection__rendered {
+      line-height: 60px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+  }
+  .ant-input {
+    width: 700px;
+    height: $copH;
+    border-left: 0;
+    font-size: 18px;
+  }
+  .ant-btn {
+    width: 120px;
+    height: $copH;
+    margin-top: -1px;
+    font-size: 18px;
+    background-color: rgba(3, 147, 220, 1);
+    color: #fff !important;
+    border: 0;
+    &:hover {
+      background-color: rgba(3, 147, 220, 0.8) !important;
+    }
+  }
+}

@@ -1,0 +1,164 @@
+.event-analysis {
+    >.header {
+        background: #cad3dc;
+        height: 50px;
+        line-height: 50px;
+        color: #333;
+        font-size: 18px;
+        text-align: left;
+
+        >span {
+            display: inline-block;
+            height: 100%;
+            padding: 0 28px;
+            background: #fff;
+        }
+
+        .icon-hot {
+            color: #f76d43;
+            font-size: 35px;
+            margin-right: 10px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+    }
+
+    .tg-list-item {
+        padding: 55px 0 0 0;
+
+        &.event-switch {
+            float: left;
+            margin-left: 60px;
+        }
+
+    }
+
+    >.content {
+        height: 708px;
+        background: #fff;
+        overflow: hidden;
+
+        .hot-event {
+            width: 55%;
+            height: 100%;
+            float: left;
+        }
+
+        .hot-event-detail {
+            width: 45%;
+            height: 100%;
+            float: left;
+        }
+
+        .header-switch {
+            height: 44px;
+            padding: 55px 0;
+        }
+
+        .event-chart {
+            height: 548px
+        }
+
+        .hot-event-detail {
+            padding-right: 40px;
+
+            .header {
+                display: table;
+                width: 100%;
+                padding: 55px 0 35px 0;
+
+                .event-industry {
+                    font-size: 14px;
+                }
+
+            }
+
+            .detail-name {
+                display: table-cell;
+                text-align: left;
+                vertical-align: middle;
+
+                .title {
+                    font-size: 18px;
+                    color: #666666;
+                    font-weight: bold;
+                }
+
+            }
+
+            .blue-btn {
+                float: right;
+            }
+
+            .content {
+                text-align: left;
+
+                h2 {
+                    font-size: 16px;
+                    color: #666;
+                }
+
+                .event-score {
+                    width: 100%;
+
+                    .display-line {
+                        background: -webkit-linear-gradient(left, #ddeefc, #0293dc); /* Safari 5.1 - 6.0 */
+                        background: -o-linear-gradient(right, #ddeefc, #0293dc); /* Opera 11.1 - 12.0 */
+                        background: -moz-linear-gradient(right, #ddeefc, #0293dc); /* Firefox 3.6 - 15 */
+                        background: linear-gradient(to right, #ddeefc, #0293dc); /* 标准的语法 */
+                    }
+
+                }
+
+                .per-item {
+                    width: 100%;
+                    height: 32px;
+                    background: #edf4f7;
+                    border-radius: 25px;
+                    margin: 20px 0 35px 0;
+                    position: relative;
+
+                    &.in-value {
+                        .score {
+                            margin-left: -50px;
+                            color: #fff;
+                        }
+
+                    }
+
+                    .per-score {
+                        height: 100%;
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+
+                    .score {
+                        font-size: 16px;
+                        color: #0293dc;
+                        font-weight: bold;
+                        display: inline-block;
+                        margin-left: 5px;
+                    }
+
+                }
+
+                .event-line-chart {
+                    width: 100%;
+                    height: 464px;
+                }
+
+            }
+
+        }
+
+    }
+
+    @media screen and (min-width:1367px) {
+        .text-ellipsis-200 {
+            width: 400px;
+        }
+
+    }
+
+}

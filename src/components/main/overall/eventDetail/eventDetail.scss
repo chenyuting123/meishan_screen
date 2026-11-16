@@ -1,0 +1,272 @@
+@keyframes radiussportw {
+    0% {
+        box-shadow: 0 0 0 0px rgba(2, 167, 255, 0.7);
+        background: rgba(9, 157, 236, 0.7);
+    }
+
+    100% {
+        box-shadow: 0 0 0 8px rgba(107, 203, 227, 0);
+        background: rgba(255, 220, 1, 1);
+    }
+
+}
+
+.event-tracking {
+    padding: 20px 40px 0 40px;
+
+    .header {
+        height: 80px;
+        line-height: 80px;
+        width: 100%;
+        font-size: 18px;
+        color: #fff;
+        padding: 0 33px;
+        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#0b417e', endColorStr='#0785bb', gradientType='1');
+        background: -moz-linear-gradient(left, #0b417e, #0785bb);
+        background: -o-linear-gradient(left, #0b417e, #0785bb);
+        background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#0b417e), to(#0785bb));
+    }
+
+    .content {
+        background: #fff;
+
+        .event-content {
+            height: 320px;
+            overflow: hidden;
+            position: relative;
+            padding-right: 20px;
+
+            >p {
+                line-height: 30px;
+            }
+
+        }
+
+        h2 {
+            font-weight: bold;
+            margin-bottom: 23px;
+            font-size: 18px;
+        }
+
+    }
+
+    .event-top {
+        padding-bottom: 35px;
+        border-bottom: 1px #e8e8e8 solid;
+
+        .left,
+        .right {
+            width: 50%;
+            float: left;
+        }
+
+        .left {
+            padding: 67px 10px 0 60px;
+        }
+
+        .right {
+            padding: 67px 60px 0 20px;
+        }
+
+        .event-remark {
+            font-size: 18px;
+            color: #333;
+        }
+
+    }
+
+    .event-bottom {
+        padding: 20px 60px 20px 60px;
+
+        .event-process {
+            padding: 0 184px;
+        }
+
+        .process-item {
+            border-radius: 50px;
+        }
+
+        .new_soure {
+            color: #13aeff
+        }
+
+        .date-soure {
+            width: 100%;
+            height: 150px;
+            text-align: center;
+            position: relative;
+
+            .wave {
+                width: 150px;
+                height: 100%;
+            }
+
+            .wave-num {
+                width: 150px;
+                display: block;
+                position: absolute;
+                top: 65px;
+                font-size: 18px;
+                font-weight: bold;
+                text-align: center;
+                color: #fff;
+            }
+
+            .process-count {
+                float: right;
+                position: relative;
+                top: -20px;
+                color: rgb(136, 136, 136);
+
+                em {
+                    cursor: pointer;
+                    color: rgb(19, 174, 274);
+                    text-decoration: underline;
+                }
+
+            }
+
+        }
+
+        .item {
+            position: relative;
+
+            .radius {
+                width: 16px;
+                height: 16px;
+                display: inline-block;
+                border-radius: 50%;
+                background: #fff;
+                position: absolute;
+                left: -37px;
+                top: 52px;
+                z-index: 10;
+
+                &:after {
+                    content: "";
+                    position: absolute;
+                    width: 14px;
+                    height: 14px;
+                    left: 1px;
+                    top: 2px;
+                    border-radius: 50%;
+                    opacity: 1;
+                    background-color: rgb(2, 167, 255);
+                    animation: radiussportw 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+                    animation-iteration-count: infinite;
+                    -webkit-animation-iteration-count: infinite;
+                }
+
+                >em {
+                    width: 14px;
+                    height: 14px;
+                    top: 1px;
+                    left: 1px;
+                    border-radius: 50%;
+                    display: inline-block;
+                    background: #02a7ff;
+                    z-index: 11;
+                    position: relative;
+                }
+
+            }
+
+            .process-lists {
+                margin-bottom: 40px;
+
+                .list {
+                    height: 180px;
+                    margin-left: 75px;
+                    position: relative;
+
+                    &:after {
+                        content: "";
+                        position: absolute;
+                        height: 100%;
+                        top: 0px;
+                        left: -2px;
+                        border-left: 2px #c1c1c1 dashed;
+                    }
+
+                    &:last-child {
+                        &:after {
+                            height: 50%;
+                        }
+
+                    }
+
+                    .list-c {
+                        height: 120px;
+                        border-radius: 4px;
+                        -webkit-box-shadow: 0 0 13px rgba(89, 89, 89, .3);
+                        -moz-box-shadow: 0 0 13px rgba(89, 89, 89, .3);
+                        box-shadow: 0 0 13px rgba(89, 89, 89, .3);
+                        position: relative;
+                        padding: 15px;
+                        margin-right: 26.5px;
+                        left: 26.5px;
+                        top: 30px;
+
+                        h3 {
+                            color: #888888;
+                            margin-bottom: 15px;
+                        }
+
+                        &:before {
+                            content: "";
+                            position: absolute;
+                            width: 13px;
+                            height: 18px;
+                            background: url("../../../../images/trigon2.png") no-repeat center;
+                            left: -13px;
+                            top: 50%;
+                            margin-top: -9px;
+                        }
+
+                    }
+
+                }
+
+            }
+
+            @mixin loadBox {
+                font-size: 16px;
+                color: rgb(19, 174, 274);
+                width: 100%;
+                height: 60px;
+                line-height: 60px;
+                text-align: center;
+                position: relative;
+
+                >p {
+                    cursor: pointer;
+                }
+
+            }
+
+            .loadMore {
+                @include loadBox;
+
+                &:after {
+                    content: '';
+                    position: absolute;
+                    top: 45px;
+                    left: 50%;
+                    margin-left: -8px;
+                    width: 0;
+                    border-width: 8px;
+                    border-style: solid;
+                    border-color: rgb(19, 174, 274) transparent transparent transparent;
+                }
+
+            }
+
+            .loading {
+                @include loadBox;
+            }
+
+        }
+
+    }
+
+}

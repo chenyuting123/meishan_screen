@@ -1,0 +1,74 @@
+@import "../../../../../../styles/mixin";
+
+$btnW: 145px;
+$listW: 140px;
+$clearance: 20px;
+.commonStyle {
+  position: absolute;
+  top: $clearance;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.18);
+  z-index: 4;
+}
+
+.c-function-btn {
+  .c-function-btn__download {
+    @extend .commonStyle;
+    left: -$btnW - $listW - $clearance*2;
+    width: $btnW;
+    > i {
+      margin-right: 12px;
+    }
+  }
+  .c-function-btn__list {
+    @include transitionAnimate(height);
+    @extend .commonStyle;
+    overflow: hidden;
+    width: $listW;
+    height: 660px;
+    left: -$btnW - $clearance;
+    background: #ffffff;
+    li {
+      text-align: center;
+      &:first-child {
+        width: 100%;
+        height: 40px;
+        line-height: 40px;
+        background: rgba(229, 235, 241, 1);
+        border-radius: 4px 4px 0 0;
+        box-shadow: 0 0 20px rgba(51, 51, 51, 0.1);
+        cursor: pointer;
+        > i {
+          margin-left: 20px;
+        }
+      }
+    }
+  }
+  .c-function-btn__status {
+    position: absolute;
+    bottom: 100px;
+    z-index: 4;
+    width: 30px;
+    left: - 82px;
+    button {
+      width: 30px;
+      height: 30px;
+      padding: 0;
+      border: 0;
+    }
+    > button {
+      margin-bottom: 8px;
+      box-shadow: 0 0 10px rgba(60, 83, 180, 0.1);
+    }
+    > div {
+      background: rgba(255, 255, 255, 1);
+      border-radius: 4px;
+      box-shadow: 0 0 10px rgba(60, 83, 180, 0.1);
+      div {
+        background: rgba(239, 243, 246, 1);
+        margin: 0 6px;
+        width: 18px;
+        height: 1px;
+      }
+    }
+  }
+}

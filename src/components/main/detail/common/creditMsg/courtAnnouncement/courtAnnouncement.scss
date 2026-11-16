@@ -1,0 +1,27 @@
+.court-announcement {
+    min-height: 500px;
+    max-height: 1370px;
+
+    .scroll {
+        .iscroll-pull-down,
+        .iscroll-pull-up {
+            background-color: #0293dc;
+            border-bottom: 2px solid #00A8C6;
+            text-align: center;
+        }
+
+    }
+
+    .text-ellipsis {
+        width: 320px;
+        vertical-align: middle;
+    }
+
+    @media screen and (min-width:1367px) {
+        .text-ellipsis {
+            width: 600px;
+        }
+
+    }
+
+}

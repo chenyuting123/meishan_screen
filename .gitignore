@@ -1,0 +1,13 @@
+﻿/node_modules
+/bin/*.log
+/.idea
+/.settings
+/*.log
+/build
+/dist
+*.iml
+*.project
+.DS_STORE
+package-lock.json
+/src/libs/higgscharts_backup.js
+/src/libs/higgscharts.js

@@ -1,0 +1,122 @@
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+/*开关按钮*/
+.tgl {
+	display: none
+}
+
+.tg-list-item {
+	display: inline-block;
+}
+
+.tgl,
+.tgl *,
+.tgl:after,
+.tgl:before,
+.tgl+.tgl-btn,
+.tgl:after,
+.tgl:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+.tgl::-moz-selection,
+.tgl:after::-moz-selection,
+.tgl:before::-moz-selection,
+.tgl+.tgl-btn::-moz-selection,
+.tgl::-moz-selection,
+.tgl:after::-moz-selection,
+.tgl:before::-moz-selection {
+	background: 0 0
+}
+
+.tgl::selection,
+.tgl:after::selection,
+.tgl:before::selection,
+.tgl+.tgl-btn::selection,
+.tgl::selection,
+.tgl:after::selection,
+.tgl:before::selection {
+	background: 0 0
+}
+
+.tgl+.tgl-btn {
+	outline: 0;
+	display: inline-block;
+	width: 320px;
+	height: 40px;
+	position: relative;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+.tgl+.tgl-btn:after,
+.tgl+.tgl-btn:before {
+	position: relative;
+	display: block;
+	content: "";
+	width: 50%;
+	height: 100%
+}
+
+.tgl+.tgl-btn:after {
+	left: 0
+}
+
+.tgl+.tgl-btn:before {
+	display: none
+}
+
+.tgl[value="true"]+.tgl-btn:after {
+	left: 50%
+}
+
+.tgl-light+.tgl-btn {
+	background: #fff;
+	padding-right: 0;
+	border: 1px #f0f0f0 solid;
+	border-radius: 20px;
+	-webkit-transition: all .4s ease;
+	transition: all .4s ease;
+}
+
+.tgl-light+.tgl-btn:after {
+	border-radius: 20px;
+	background: rgba(20, 173, 255, 0.8);
+	-webkit-transition: all .2s ease;
+	transition: all .2s ease;
+	position: absolute;
+	z-index: 0;
+}
+
+.tgl+.tgl-btn em {
+	width: 50%;
+	color: #c1c1c1;
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+}
+
+.tgl-light[value="true"]+.tgl-btn {
+
+	/*background: #28A6E9*/
+}
+
+.tgl-light[value="false"]+.tgl-btn em:first-child {
+	color: #fff;
+}
+
+.tgl-light[value="true"]+.tgl-btn em:last-child {
+	color: #fff;
+}

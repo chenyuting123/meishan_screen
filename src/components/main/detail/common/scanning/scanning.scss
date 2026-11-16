@@ -1,0 +1,98 @@
+/**.chat_frame {
+  width: 670px;
+  margin-bottom: 10px;
+  background-color: rgba(0, 0, 0, .3);
+  padding-top: 22px;
+  box-sizing: border-box;
+
+  .head {
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+
+    em {
+      color: rgb(2, 147, 220);
+      font-size: 26px;
+    }
+
+    .title {
+      margin-left: 10px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+  }
+
+  .clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+
+  .fl {
+    float: left;
+  }
+
+  .mark {
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+} **/
+.scanning {
+  .list-box {
+    height: 100%;
+    position: relative;
+  }
+
+}
+.staticRelatedPartyRiskModel{
+  
+  .ant-modal-content{
+    .ant-modal-header{
+      .ant-modal-title {
+        margin: 0;
+        font-size: 20px;
+        line-height: 21px;
+        font-weight: 600;
+        color: rgba(0,0,0,.85);
+      }
+    }
+    .ant-modal-body{
+      .modelMainContent{
+        .mainTitle{
+          font-size: 18px;
+          font-weight: 600;
+          color: #333;
+          margin-top: 15px;
+          .mainNum{
+            color: #199ed8;
+            font-size: 20px;
+          }
+        }
+        .companyTypeTitle{
+          font-size: 16px;
+          font-weight: 600;
+          color: #333;
+          margin-top: 15px;
+          .companyTypeNum{
+            display:inline-block;
+            margin-left:10px;
+            color: #0b8be8;
+          }
+        }
+        .detailCompanyInfo{
+          font-size: 15px;
+          color: #199ed8;
+          font-weight: 400;
+          margin-top: 15px;
+        }
+      }
+    }
+    .ant-modal-footer{
+      text-align: center;
+    }
+  }
+}

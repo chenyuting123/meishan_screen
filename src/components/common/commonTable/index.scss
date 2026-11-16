@@ -1,0 +1,28 @@
+.c-common-table {
+  min-height: 200px;
+  position: relative;
+  background: rgba(255, 255, 255, 1);
+  padding-bottom: 120px;
+  .c-no-data{
+    transform: translateY(-10%);
+  }
+  .c-common-table__footer {
+    right: 50px;
+    bottom: 50px;
+    position: absolute;
+    min-width: 500px;
+    button {
+      max-width: 60px;
+    }
+    ul, button, .total-page {
+      float: left;
+      margin-left: 10px;
+    }
+    .total-page {
+      margin: 0 10px;
+      span {
+        margin-right: 10px;
+      }
+    }
+  }
+}

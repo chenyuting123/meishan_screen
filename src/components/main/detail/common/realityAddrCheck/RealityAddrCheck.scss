@@ -1,0 +1,48 @@
+.realityWorkAddrCheck {
+    width: 100%;
+    min-height: 600px;
+    .lineTitle{
+      display: inline-block;
+      width:30%;
+      height: 50px;
+      background:rgba(239,242,247,1);
+      line-height: 50px;
+      font-size: 14px;
+      color: #333;
+      font-weight: bold;
+      border-top: 1px solid rgba(219,223,229,1);
+      border-bottom: 1px solid rgba(219,223,229,1);
+      text-align: center;
+    }
+    .containerStyle{
+      display: inline-block;
+      width:70%;
+      height: 50px;
+      line-height: 50px;
+      font-size: 14px;
+      color: #666;
+      background:#fff;
+      border-top: 1px solid rgba(219,223,229,1);
+      border-bottom: 1px solid rgba(219,223,229,1);
+      padding-left: 100px;
+      &.unSame{
+        color:#f00;
+      }
+    }
+    .titleLine{
+      width: 100%;
+      height: 60px;
+      line-height: 60px;
+      font-size: 16px;
+      color: #333;
+      font-weight: bold;
+      .blueBlock{
+        display: inline-block;
+        width:4px;
+        height:20px;
+        background:rgba(58,125,215,1);
+        margin-left: 9px;
+        margin-right: 6px;
+      }
+    }
+}

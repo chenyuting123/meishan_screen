@@ -1,0 +1,30 @@
+.relation-ship {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    width: 100%;
+    height: 100%;
+
+    .relation-ship-container {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+
+        & img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .relationShipChart {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+    }
+
+}

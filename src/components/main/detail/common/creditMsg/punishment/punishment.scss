@@ -1,0 +1,17 @@
+.punishment {
+    min-height: 500px;
+    max-height: 1370px;
+    position: relative;
+    overflow-y: auto;
+
+    .scroll {
+        .iscroll-pull-down,
+        .iscroll-pull-up {
+            background-color: #0293dc;
+            border-bottom: 2px solid #00A8C6;
+            text-align: center;
+        }
+
+    }
+
+}

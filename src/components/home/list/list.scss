@@ -1,0 +1,80 @@
+.danger,
+.black {
+    padding: 0 20px;
+    .isNew {
+        &.mt-checkbox {
+            margin-left: 10px;
+            vertical-align: top;
+        }
+
+    }
+
+    .table-theme {
+        .sort {
+            cursor: pointer;
+
+            .iconfont {
+                font-size: 16px;
+                color: #0293dc;
+                display: inline-block;
+                vertical-align: middle;
+            }
+
+        }
+        .color-o{
+            color: #F76D43;
+        }
+        .color-l{
+            color: #02CFDC;
+        }
+
+        .join-reason {
+            &.text-ellipsis {
+                width: 200px;
+            }
+
+        }
+
+        .mt-placeholder {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .mt-select-input {
+            font-size: 18px;
+            color: #000d35;
+            font-weight: 400;
+        }
+
+        tbody {
+            .company-name {
+                position: relative;
+
+                .iconfont {
+                    color: #f76d43;
+                    position: absolute;
+                    top: -10px;
+                }
+
+            }
+
+            .iconfont {
+                font-size: 20px;
+                display: inline-block;
+                vertical-align: middle;
+
+                &.icon-up3 {
+                    color: #f55c6b;
+                }
+
+                &.icon-down3 {
+                    color: #0293dc;
+                }
+
+            }
+
+        }
+
+    }
+
+}
