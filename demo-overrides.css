@@ -1,0 +1,143 @@
+﻿html, body, #app {
+    background-color: #041a33 !important;
+  }
+  .home .home-top {
+    box-sizing: border-box !important;
+    background-color: #041a33 !important;
+    background-size: cover !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    height: calc(100vh - 64px) !important;
+    min-height: calc(100vh - 64px) !important;
+    padding: 16px 10px !important;
+    align-items: stretch !important;
+  }
+  .home .home-top .leftChart-zone,
+  .home .home-top .map-zone,
+  .home .home-top .chart-zone {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: 0 !important;
+    flex: 1 1 0 !important;
+  }
+
+  /* 左侧三块等高铺满 */
+  .home .home-top .leftPlan_root {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    gap: 10px !important;
+  }
+  .home .home-top .leftPlan_root > .AacroAnalysis-info,
+  .home .home-top .leftPlan_root > .TendencyChart_root,
+  .home .home-top .leftPlan_root > .riskTrend_root {
+    flex: 1 1 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+  }
+  .home .home-top .AacroAnalysis-info {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-around !important;
+    padding-top: 10px !important;
+  }
+
+  /* 右侧：下拉 + 三块图表铺满 */
+  .home .home-top .chart-zone .select-box {
+    flex: 0 0 40px !important;
+  }
+  .home .home-top .home-right {
+    display: flex !important;
+    flex-direction: column !important;
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    height: auto !important;
+  }
+  .home .home-top .home-right > div {
+    display: flex !important;
+    flex-direction: column !important;
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    height: 100% !important;
+    gap: 10px !important;
+  }
+  .home .home-top .home-right .chat-frame,
+  .home .home-top .home-right .rightPlan_root {
+    flex: 1 1 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin-top: 0 !important;
+  }
+  .home .home-top .rightPlan_root {
+    height: 100% !important;
+  }
+  .home .home-top .rightPlan_root .risk-analysis-box,
+  .home .home-top .rightPlan_root .areaDistributionTop3-box {
+    height: 100% !important;
+    margin-top: 0 !important;
+  }
+
+  /* 中间地图铺满 */
+  .home .home-top .c-map {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+  }
+  .home .home-top .map-box {
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    height: auto !important;
+  }
+  .home .home-top .map-chart {
+    height: 100% !important;
+    width: 100% !important;
+    max-width: none !important;
+  }
+  /* 图表卡片内部：标题固定，绘图区占剩余，禁止越界 */
+  .home .home-top .TendencyChart_root,
+  .home .home-top .riskTrend_root,
+  .home .home-top .chat-frame,
+  .home .home-top .risk-analysis-box,
+  .home .home-top .rightPlan_root {
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+  }
+  .home .home-top .chart-title,
+  .home .home-top .chat-frame .head,
+  .home .home-top .risk-analysis-box > .chart-title {
+    flex: 0 0 auto !important;
+  }
+  .home .home-top .chart-box,
+  .home .home-top .rank-content,
+  .home .home-top .dynamic-content,
+  .home .home-top .pie-content {
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: hidden !important;
+    position: relative !important;
+    box-sizing: border-box !important;
+    padding: 4px 12px 10px 8px !important;
+  }
+  .home .home-top .mod {
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    position: relative !important;
+    box-sizing: border-box !important;
+  }
+  .home .home-top .mod > div,
+  .home .home-top [_echarts_instance_] {
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    box-sizing: border-box !important;
+  }
+  .home .home-top canvas {
+    max-width: 100% !important;
+  }

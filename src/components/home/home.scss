@@ -34,20 +34,34 @@ $leftW:27%;
     }
 
     .home-top {
-        height: 1136px;
-        background: url("../../images/star.png") no-repeat center top;
-        background-size: auto;
+        box-sizing: border-box;
+        min-height: calc(100vh - 64px);
+        height: calc(100vh - 64px);
+        background-color: #041a33;
+        background-image: url("../../images/star.png");
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
         overflow: hidden;
-        padding: 36px 10px 97px;
+        padding: 24px 10px 24px;
         display: flex;
+        align-items: stretch;
         .leftChart-zone{
             width: 27%;
             min-width: 369px;
-            height: 1003px;
+            height: auto;
+            min-height: 0;
+            flex: 1 1 0;
+            display: flex;
+            flex-direction: column;
         }
         .map-zone {
             min-width: 588px;
-            height: 1003px;
+            height: auto;
+            min-height: 0;
+            flex: 1 1 0;
+            display: flex;
+            flex-direction: column;
             margin: 0 10px;
             width: 45%;
             border: 2px solid rgba(2,147,220,.4);
@@ -56,7 +70,11 @@ $leftW:27%;
 
         .chart-zone {
             width: 27%;
-            height: 1003px;
+            height: auto;
+            min-height: 0;
+            flex: 1 1 0;
+            display: flex;
+            flex-direction: column;
             min-width: 369px;
             width: $leftW;
             .select-box{

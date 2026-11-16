@@ -1,0 +1,28 @@
+【作品名称】（2-20字）
+眉山金融监测大屏
+
+备选：
+- 眉山风险预警大屏
+- 金融风险监测平台
+
+【所属行业】
+优先选：金融
+若无金融选项，可选：互联网 / 软件开发 / 企业服务 / 大数据
+
+【作品图片】（已压缩，均小于 2MB，第 1 张建议作封面）
+1. 01-overall-dashboard.jpg  —— 全局实时监测预警大屏（含眉山市地图，封面推荐）
+2. 06-map-focus.jpg          —— 中间地图特写（眉山六区县散点）
+3. 02-analysis-search.jpg    —— 智能检索分析
+4. 03-monitor.jpg            —— 重点企业实时监控
+5. 05-login.jpg              —— 登录页
+（备用）04-special-event.jpg —— 特征事件预警
+
+图片目录：
+F:\安链项目\BaiduNetdiskDownload\project3\honjin5-meishan-front\case-assets\
+（已同步到 F:\安链项目\honjin5-meishan-front\case-assets\）
+
+【作品介绍】（不少于50字，无联系方式、无外链）
+本项目为眉山地区金融风险监测预警大屏前端，基于 React、Redux、Ant Design 与 ECharts 构建。覆盖全局实时监测、企业违规预警、特征事件预警、智能检索分析、重点企业监控等模块，支持风险指数看板、趋势图表、企业名单与关联分析展示，面向监管与业务人员的数据可视化场景。本人负责前端页面搭建、图表联动、路由与状态管理、本地 Mock 联调及界面适配。
+
+【下载链接】（可选）
+https://github.com/chenyuting123/meishan_screen
